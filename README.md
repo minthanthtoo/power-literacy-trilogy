@@ -1,9 +1,11 @@
-# The 48 Laws of Power - Scientific Trilogy
+# Power Literacy Trilogy
+
+**A Scientific & Defensive Intelligence Reframing of the 48 Laws of Power**
+
+A defensive intelligence trilogy inspired by the 48 Laws of Power, reframed through behavioral science, systems thinking, and AI-era power literacy.
 
 **Status:** Defensive Intelligence Edition (V4.1)
 **Language:** Burmese
-
-This project is a scientific, defensive reframing of power dynamics. It replaces historical anecdote with behavioral science, game theory, and AI strategy.
 
 **Important Note on Ethics & Safety:**
 This edition has been structurally rewritten to serve as **Defensive Intelligence**. The material herein describes coercive systems, algorithmic manipulation, and dominance structures so that readers can detect, document, and defend against them. 
