@@ -1,0 +1,22 @@
+site_name: The 48 Laws of Power - Scientific Trilogy
+theme:
+  name: material
+
+nav:
+  - Home: README.md
+  - Book 2:
+      - Overview: books/book2-operators-scalpel/index.md
+      - Introduction: books/book2-operators-scalpel/introduction.md
+      - Chapter 1: books/book2-operators-scalpel/chapter-01-physiology-of-submission.md
+      - Chapter 2: books/book2-operators-scalpel/chapter-02-abuse-prevention.md
+      - Chapter 3: books/book2-operators-scalpel/chapter-03-coalitions.md
+      - Chapter 4: books/book2-operators-scalpel/chapter-04-reputation.md
+      - Chapter 5: books/book2-operators-scalpel/chapter-05-betrayal.md
+      - Chapter 6: books/book2-operators-scalpel/chapter-06-reward-circuitry.md
+      - Chapter 7: books/book2-operators-scalpel/chapter-07-asymmetric-friction.md
+      - Chapter 8: books/book2-operators-scalpel/chapter-08-supranormal-stimuli.md
+      - Chapter 9: books/book2-operators-scalpel/chapter-09-predictive-disempowerment.md
+      - Conclusion: books/book2-operators-scalpel/conclusion.md
+      - Full Book: books/book2-operators-scalpel/full-book.md
+  - Reports:
+      - Publication Readiness: reports/publication-readiness.md
