@@ -1,46 +1,121 @@
 site_name: Power Literacy Trilogy
-site_description: A defensive intelligence trilogy inspired by the 48 Laws of Power, reframed through behavioral science, systems thinking, and AI-era power literacy.
+site_description: A defensive intelligence trilogy inspired by the 48 Laws of Power,
+  reframed through behavioral science, systems thinking, and AI-era power literacy.
+docs_dir: docs
 theme:
   name: material
-
 nav:
-  - Home: README.md
-  - Book 1:
-      - Full Book: books/book1-evolutionary-firmware/full-book.md
-      - Introduction & Laws 1-9: books/book1-evolutionary-firmware/part-1.md
-      - Laws 10-19: books/book1-evolutionary-firmware/part-2.md
-      - Laws 20-29: books/book1-evolutionary-firmware/part-3.md
-      - Laws 30-39: books/book1-evolutionary-firmware/part-4.md
-      - Laws 40-48: books/book1-evolutionary-firmware/part-5.md
-  - Book 2:
-      - Overview: books/book2-operators-scalpel/index.md
-      - Introduction: books/book2-operators-scalpel/introduction.md
-      - Chapter 1: books/book2-operators-scalpel/chapter-01-physiology-of-submission.md
-      - Chapter 2: books/book2-operators-scalpel/chapter-02-abuse-prevention.md
-      - Chapter 3: books/book2-operators-scalpel/chapter-03-coalitions.md
-      - Chapter 4: books/book2-operators-scalpel/chapter-04-reputation.md
-      - Chapter 5: books/book2-operators-scalpel/chapter-05-betrayal.md
-      - Chapter 6: books/book2-operators-scalpel/chapter-06-reward-circuitry.md
-      - Chapter 7: books/book2-operators-scalpel/chapter-07-asymmetric-friction.md
-      - Chapter 8: books/book2-operators-scalpel/chapter-08-supranormal-stimuli.md
-      - Chapter 9: books/book2-operators-scalpel/chapter-09-predictive-disempowerment.md
-      - Conclusion: books/book2-operators-scalpel/conclusion.md
-      - Full Book: books/book2-operators-scalpel/full-book.md
-  - Book 3:
-      - Full Book: books/book3-singularity-of-power/full-book.md
-      - Introduction: books/book3-singularity-of-power/00_introduction.md
-      - Chapter 1: books/book3-singularity-of-power/01_chapter-01.md
-      - Chapter 2: books/book3-singularity-of-power/02_chapter-02.md
-      - Chapter 3: books/book3-singularity-of-power/03_chapter-03.md
-      - Chapter 4: books/book3-singularity-of-power/04_chapter-04.md
-      - Chapter 5: books/book3-singularity-of-power/05_chapter-05.md
-      - Chapter 6: books/book3-singularity-of-power/06_chapter-06.md
-      - Chapter 7: books/book3-singularity-of-power/07_chapter-07.md
-      - Chapter 8: books/book3-singularity-of-power/08_chapter-08.md
-      - Chapter 9: books/book3-singularity-of-power/09_chapter-09.md
-      - Chapter 10: books/book3-singularity-of-power/10_chapter-10.md
-      - Chapter 11: books/book3-singularity-of-power/11_chapter-11.md
-      - Conclusion: books/book3-singularity-of-power/12_conclusion.md
-      - Bibliography: books/book3-singularity-of-power/13_bibliography.md
-  - Reports:
-      - Publication Readiness: reports/publication-readiness.md
+- Home: index.md
+- Book 1:
+  - Burmese:
+    - Full Book: books/book1-evolutionary-firmware/burmese/full-book.md
+    - Introduction & Laws 1-9: books/book1-evolutionary-firmware/burmese/part-1.md
+    - Laws 10-19: books/book1-evolutionary-firmware/burmese/part-2.md
+    - Laws 20-29: books/book1-evolutionary-firmware/burmese/part-3.md
+    - Laws 30-39: books/book1-evolutionary-firmware/burmese/part-4.md
+    - Laws 40-48: books/book1-evolutionary-firmware/burmese/part-5.md
+  - English:
+    - Full Book: books/book1-evolutionary-firmware/english/full-book.md
+    - Introduction & Laws 1-9: books/book1-evolutionary-firmware/english/part-1.md
+    - Laws 10-19: books/book1-evolutionary-firmware/english/part-2.md
+    - Laws 20-29: books/book1-evolutionary-firmware/english/part-3.md
+    - Laws 30-39: books/book1-evolutionary-firmware/english/part-4.md
+    - Laws 40-48: books/book1-evolutionary-firmware/english/part-5.md
+  - Bilingual:
+    - Full Book: books/book1-evolutionary-firmware/bilingual/full-book.md
+    - Introduction & Laws 1-9: books/book1-evolutionary-firmware/bilingual/part-1.md
+    - Laws 10-19: books/book1-evolutionary-firmware/bilingual/part-2.md
+    - Laws 20-29: books/book1-evolutionary-firmware/bilingual/part-3.md
+    - Laws 30-39: books/book1-evolutionary-firmware/bilingual/part-4.md
+    - Laws 40-48: books/book1-evolutionary-firmware/bilingual/part-5.md
+- Book 2:
+  - Burmese:
+    - Full Book: books/book2-operators-scalpel/burmese/full-book.md
+    - Overview: books/book2-operators-scalpel/burmese/index.md
+    - Introduction: books/book2-operators-scalpel/burmese/introduction.md
+    - Chapter 1: books/book2-operators-scalpel/burmese/chapter-01.md
+    - Chapter 2: books/book2-operators-scalpel/burmese/chapter-02.md
+    - Chapter 3: books/book2-operators-scalpel/burmese/chapter-03.md
+    - Chapter 4: books/book2-operators-scalpel/burmese/chapter-04.md
+    - Chapter 5: books/book2-operators-scalpel/burmese/chapter-05.md
+    - Chapter 6: books/book2-operators-scalpel/burmese/chapter-06.md
+    - Chapter 7: books/book2-operators-scalpel/burmese/chapter-07.md
+    - Chapter 8: books/book2-operators-scalpel/burmese/chapter-08.md
+    - Chapter 9: books/book2-operators-scalpel/burmese/chapter-09.md
+    - Conclusion: books/book2-operators-scalpel/burmese/conclusion.md
+  - English:
+    - Full Book: books/book2-operators-scalpel/english/full-book.md
+    - Overview: books/book2-operators-scalpel/english/index.md
+    - Introduction: books/book2-operators-scalpel/english/introduction.md
+    - Chapter 1: books/book2-operators-scalpel/english/chapter-01.md
+    - Chapter 2: books/book2-operators-scalpel/english/chapter-02.md
+    - Chapter 3: books/book2-operators-scalpel/english/chapter-03.md
+    - Chapter 4: books/book2-operators-scalpel/english/chapter-04.md
+    - Chapter 5: books/book2-operators-scalpel/english/chapter-05.md
+    - Chapter 6: books/book2-operators-scalpel/english/chapter-06.md
+    - Chapter 7: books/book2-operators-scalpel/english/chapter-07.md
+    - Chapter 8: books/book2-operators-scalpel/english/chapter-08.md
+    - Chapter 9: books/book2-operators-scalpel/english/chapter-09.md
+    - Conclusion: books/book2-operators-scalpel/english/conclusion.md
+  - Bilingual:
+    - Full Book: books/book2-operators-scalpel/bilingual/full-book.md
+    - Overview: books/book2-operators-scalpel/bilingual/index.md
+    - Introduction: books/book2-operators-scalpel/bilingual/introduction.md
+    - Chapter 1: books/book2-operators-scalpel/bilingual/chapter-01.md
+    - Chapter 2: books/book2-operators-scalpel/bilingual/chapter-02.md
+    - Chapter 3: books/book2-operators-scalpel/bilingual/chapter-03.md
+    - Chapter 4: books/book2-operators-scalpel/bilingual/chapter-04.md
+    - Chapter 5: books/book2-operators-scalpel/bilingual/chapter-05.md
+    - Chapter 6: books/book2-operators-scalpel/bilingual/chapter-06.md
+    - Chapter 7: books/book2-operators-scalpel/bilingual/chapter-07.md
+    - Chapter 8: books/book2-operators-scalpel/bilingual/chapter-08.md
+    - Chapter 9: books/book2-operators-scalpel/bilingual/chapter-09.md
+    - Conclusion: books/book2-operators-scalpel/bilingual/conclusion.md
+- Book 3:
+  - Burmese:
+    - Full Book: books/book3-singularity-of-power/burmese/full-book.md
+    - Introduction: books/book3-singularity-of-power/burmese/00_introduction.md
+    - Chapter 1: books/book3-singularity-of-power/burmese/01_chapter-01.md
+    - Chapter 2: books/book3-singularity-of-power/burmese/02_chapter-02.md
+    - Chapter 3: books/book3-singularity-of-power/burmese/03_chapter-03.md
+    - Chapter 4: books/book3-singularity-of-power/burmese/04_chapter-04.md
+    - Chapter 5: books/book3-singularity-of-power/burmese/05_chapter-05.md
+    - Chapter 6: books/book3-singularity-of-power/burmese/06_chapter-06.md
+    - Chapter 7: books/book3-singularity-of-power/burmese/07_chapter-07.md
+    - Chapter 8: books/book3-singularity-of-power/burmese/08_chapter-08.md
+    - Chapter 9: books/book3-singularity-of-power/burmese/09_chapter-09.md
+    - Chapter 10: books/book3-singularity-of-power/burmese/10_chapter-10.md
+    - Chapter 11: books/book3-singularity-of-power/burmese/11_chapter-11.md
+    - Conclusion: books/book3-singularity-of-power/burmese/12_conclusion.md
+  - English:
+    - Full Book: books/book3-singularity-of-power/english/full-book.md
+    - Introduction: books/book3-singularity-of-power/english/00_introduction.md
+    - Chapter 1: books/book3-singularity-of-power/english/01_chapter-01.md
+    - Chapter 2: books/book3-singularity-of-power/english/02_chapter-02.md
+    - Chapter 3: books/book3-singularity-of-power/english/03_chapter-03.md
+    - Chapter 4: books/book3-singularity-of-power/english/04_chapter-04.md
+    - Chapter 5: books/book3-singularity-of-power/english/05_chapter-05.md
+    - Chapter 6: books/book3-singularity-of-power/english/06_chapter-06.md
+    - Chapter 7: books/book3-singularity-of-power/english/07_chapter-07.md
+    - Chapter 8: books/book3-singularity-of-power/english/08_chapter-08.md
+    - Chapter 9: books/book3-singularity-of-power/english/09_chapter-09.md
+    - Chapter 10: books/book3-singularity-of-power/english/10_chapter-10.md
+    - Chapter 11: books/book3-singularity-of-power/english/11_chapter-11.md
+    - Conclusion: books/book3-singularity-of-power/english/12_conclusion.md
+  - Bilingual:
+    - Full Book: books/book3-singularity-of-power/bilingual/full-book.md
+    - Introduction: books/book3-singularity-of-power/bilingual/00_introduction.md
+    - Chapter 1: books/book3-singularity-of-power/bilingual/01_chapter-01.md
+    - Chapter 2: books/book3-singularity-of-power/bilingual/02_chapter-02.md
+    - Chapter 3: books/book3-singularity-of-power/bilingual/03_chapter-03.md
+    - Chapter 4: books/book3-singularity-of-power/bilingual/04_chapter-04.md
+    - Chapter 5: books/book3-singularity-of-power/bilingual/05_chapter-05.md
+    - Chapter 6: books/book3-singularity-of-power/bilingual/06_chapter-06.md
+    - Chapter 7: books/book3-singularity-of-power/bilingual/07_chapter-07.md
+    - Chapter 8: books/book3-singularity-of-power/bilingual/08_chapter-08.md
+    - Chapter 9: books/book3-singularity-of-power/bilingual/09_chapter-09.md
+    - Chapter 10: books/book3-singularity-of-power/bilingual/10_chapter-10.md
+    - Chapter 11: books/book3-singularity-of-power/bilingual/11_chapter-11.md
+    - Conclusion: books/book3-singularity-of-power/bilingual/12_conclusion.md
+- Reports:
+  - Publication Readiness: reports/publication-readiness.md
