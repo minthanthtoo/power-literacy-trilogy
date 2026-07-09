@@ -32,10 +32,10 @@ Consider the volatile cross-border trade in border hubs like Myawaddy or Muse. A
 
 ```mermaid
 graph LR
-    A[Infinite Horizon Game] -->|Cooperation Sustained| B(Mutually Beneficial Growth)
-    A -->|Operator Truncates Horizon| C[End-Game Activated]
-    C -->|Betray First| D[Operator Secures Assets]
-    C -->|Wait & Trust| E[Operator Destroyed by VC]
+    A[Infinite Horizon Game] -->|"Cooperation Sustained"| B(Mutually Beneficial Growth)
+    A -->|"Operator Truncates Horizon"| C[End-Game Activated]
+    C -->|"Betray First"| D[Operator Secures Assets]
+    C -->|"Wait & Trust"| E[Operator Destroyed by VC]
 ```
 
 ### အန္တရာယ်ပုံစံနှင့် ကာကွယ်ရေး မူဘောင် - ကြိုတင် ခေါင်းဖြတ်ခြင်းဟု ထင်ရသော အမြစ်ဖြတ်တိုက်ခိုက်မှုပုံစံ

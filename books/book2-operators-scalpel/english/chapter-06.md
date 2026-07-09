@@ -24,11 +24,11 @@ To execute the Dopaminergic Leash, you must master the calculus of withdrawal, m
 
 ```mermaid
 flowchart TD
-    subgraph Stochastic Incentive Contract (The Affective Starvation Loop)
-        S1[Step 1: The Saturation Phase] -->|Establish High Baseline| S2[Step 2: Abrupt Withdrawal]
-        S2 -->|Trigger Reward Prediction Error| S3[Step 3: The Scramble]
-        S3 -->|Target Displays Frantic Appeasement| S4[Step 4: The Intermittent Reward]
-        S4 -->|Relief / Trauma Bond Reinforced| S2
+    subgraph SG1 ["Stochastic Incentive Contract (The Affective Starvation Loop)"]
+        S1[Step 1: The Saturation Phase] -->|"Establish High Baseline"| S2[Step 2: Abrupt Withdrawal]
+        S2 -->|"Trigger Reward Prediction Error"| S3[Step 3: The Scramble]
+        S3 -->|"Target Displays Frantic Appeasement"| S4[Step 4: The Intermittent Reward]
+        S4 -->|"Relief / Trauma Bond Reinforced"| S2
     end
 ```
 

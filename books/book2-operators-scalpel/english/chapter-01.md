@@ -23,12 +23,12 @@ Consider a more localized reality: the boardrooms of Yangon's traditional family
 ```mermaid
 graph TD
     A[Founder Offers Exploding Term Sheet] --> B{VC Decision: 48 Hours}
-    B -->|Accepts| C[High Valuation, Founder Control]
-    B -->|Negotiates| D[Founder Silence / No Concessions]
+    B -->|"Accepts"| C[High Valuation, Founder Control]
+    B -->|"Negotiates"| D[Founder Silence / No Concessions]
     D --> E{VC Decision: Near Expiration}
-    E -->|Folds| C
-    E -->|Walks Away| F[VC Experiences FOMO / Lost Sunk Cost]
-    B -->|Rejects immediately| F
+    E -->|"Folds"| C
+    E -->|"Walks Away"| F[VC Experiences FOMO / Lost Sunk Cost]
+    B -->|"Rejects immediately"| F
 ```
 
 ### The Dark Protocol: The Asymmetric Territory Trap

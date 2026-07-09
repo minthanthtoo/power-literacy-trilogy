@@ -33,8 +33,8 @@ graph TD
     A[Operator Triggers Crisis] --> B[Target's Outside Option -> 0]
     B --> C[Operator Proposes Ultimatum]
     C --> D{Target in Cognitive Tunnel}
-    D -->|Reject| E[Immediate Destruction]
-    D -->|Accept| F[Surrender of Power]
+    D -->|"Reject"| E[Immediate Destruction]
+    D -->|"Accept"| F[Surrender of Power]
 ```
 
 > [!TIP]

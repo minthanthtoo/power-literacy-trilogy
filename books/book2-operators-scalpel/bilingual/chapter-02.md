@@ -62,12 +62,12 @@ The target retains their corner office, their impressive title, and their six-fi
 
 ```mermaid
 graph TD
-    subgraph Pre-Freeze-Out
+    subgraph SG1 ["Pre-Freeze-Out"]
         C1(Target Node) --- N1(Key Informant)
         C1 --- N2(Budget Committee)
         C1 --- N3(Operations)
     end
-    subgraph Post-Freeze-Out
+    subgraph SG2 ["Post-Freeze-Out"]
         C2(Target Node)
         N4(Key Informant) --- O1(New Power Center)
         N5(Budget Committee) --- O1
