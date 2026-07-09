@@ -1,4 +1,3 @@
-# Power Literacy Trilogy
 
 ![Power Literacy Trilogy Cover](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/main-cover.jpg)
 
