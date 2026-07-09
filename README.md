@@ -1,6 +1,6 @@
 # Power Literacy Trilogy
 
-![Power Literacy Trilogy Cover](assets/cover.jpg)
+![Power Literacy Trilogy Cover](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/cover.jpg)
 
 > **A Scientific & Defensive Intelligence Reframing of the 48 Laws of Power**
 >
