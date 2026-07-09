@@ -1,10 +1,10 @@
 # အခန်း ၃ - ညွန့်ပေါင်းအဖွဲ့၏ တွက်ချက်မှု
 
 **English**  
-![Weighted Voting Matrix (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c3.jpg)
+![Weighted Voting Matrix (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch3_coalitions_1783594031831.jpg)
 
 **မြန်မာ**  
-![Weighted Voting Matrix](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_3_ch3_1783567934367.jpg)
+![Weighted Voting Matrix](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch3_coalitions_1783594031831.jpg)
 
 **English**  
 Power is rarely held by the single strongest ape. It is held by the ape who best understands the mathematics of the troop. In the evolutionary crucible of the Pleistocene, physical dominance was a precarious asset. A massive, solitary alpha could easily be destroyed in his sleep by three weaker, coordinated rivals. Thus, the human brain developed a profound, unconscious aptitude for the calculus of alliances. At its core is Dunbar’s number—the hardwired cognitive limit of roughly 150 stable social relationships. We are biologically constrained, forcing us to prioritize, rank, and categorize every connection. Within this network, the primate brain instinctively tracks "triadic closure": if individual A and individual B share a mutual enemy in C, the gap between A and B biologically demands to be closed. We are not just social animals; we are network architects, constantly scanning the perimeter for leverage, grievances, and the vulnerabilities of the apex.

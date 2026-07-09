@@ -1,7 +1,7 @@
 # နိဒါန်း
 
 **English**  
-![Introduction Fine-Art Art](../assets/Book_2_The_Operators_Scalpel_v4_source/b2_fineart_intro_1783577570146.jpg)
+![Introduction Fine-Art Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/main-cover.jpg)
 
 **မြန်မာ**  
 ဤ V4.1 မူသည် Book 2 ကို "အသုံးချရန် ခွဲစိတ်ဓား" အဖြစ်မဟုတ်ဘဲ "အလွဲသုံးစားမှုကို ကြိုတင်သိနိုင်ရန် ခွဲစိတ်မီးအိမ်" အဖြစ် ပြန်လည်ဖွဲ့ထားသည်။ စာအုပ်၏ အဓိကတန်ဖိုးမှာ အဖွဲ့အစည်းများ၊ တည်ထောင်သူများ၊ မန်နေဂျာများနှင့် စာဖတ်သူများက အာဏာအလွဲသုံးစားမှုပုံစံများကို စောစောသိမြင်နိုင်ခြင်း၊ မှတ်တမ်းတင်နိုင်ခြင်း၊ တရားဝင်နှင့် ကျင့်ဝတ်ဆိုင်ရာ နည်းလမ်းများဖြင့် ကာကွယ်နိုင်ခြင်း ဖြစ်သည်။

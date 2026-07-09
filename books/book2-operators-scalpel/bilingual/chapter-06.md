@@ -1,10 +1,10 @@
 # အခန်း ၆ - ဆုလာဘ်လမ်းကြောင်း ယန္တရားများ (Reward Circuitry) အင်ဂျင်
 
 **English**  
-![Stochastic Reward System (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c6.jpg)
+![Stochastic Reward System (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch6_reward_circuitry_1783594065397.jpg)
 
 **မြန်မာ**  
-![Stochastic Reward System](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_7_ch6_b_1783567972997.jpg)
+![Stochastic Reward System](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch6_reward_circuitry_1783594065397.jpg)
 
 **English**  
 Deep within the midbrain, nestled in the ventral tegmental area, lies the architecture of desire. The mesolimbic pathway does not exist to reward you for arriving at a destination; it exists to compel you to seek it. This is the neurochemical engine of dopamine. It is not the molecule of pleasure, but the molecule of anticipation, craving, and pursuit. In the Pleistocene epoch, early hominids did not find sustenance on a predictable schedule. The primal hunt was an exercise in starvation punctuated by sudden, glorious windfalls. The brain evolved to prioritize the unpredictable. When a reward is guaranteed, the dopaminergic response flatlines. But when a reward is uncertain—when it is delivered on a variable-ratio reinforcement schedule—dopamine spikes to dizzying heights. The hunt becomes an obsession. The uncertainty is the hook.

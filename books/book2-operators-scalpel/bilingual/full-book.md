@@ -3,7 +3,7 @@
 # နိဒါန်း
 
 **English**  
-![Introduction Fine-Art Art](../assets/Book_2_The_Operators_Scalpel_v4_source/b2_fineart_intro_1783577570146.jpg)
+![Introduction Fine-Art Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/main-cover.jpg)
 
 **မြန်မာ**  
 ဤ V4.1 မူသည် Book 2 ကို "အသုံးချရန် ခွဲစိတ်ဓား" အဖြစ်မဟုတ်ဘဲ "အလွဲသုံးစားမှုကို ကြိုတင်သိနိုင်ရန် ခွဲစိတ်မီးအိမ်" အဖြစ် ပြန်လည်ဖွဲ့ထားသည်။ စာအုပ်၏ အဓိကတန်ဖိုးမှာ အဖွဲ့အစည်းများ၊ တည်ထောင်သူများ၊ မန်နေဂျာများနှင့် စာဖတ်သူများက အာဏာအလွဲသုံးစားမှုပုံစံများကို စောစောသိမြင်နိုင်ခြင်း၊ မှတ်တမ်းတင်နိုင်ခြင်း၊ တရားဝင်နှင့် ကျင့်ဝတ်ဆိုင်ရာ နည်းလမ်းများဖြင့် ကာကွယ်နိုင်ခြင်း ဖြစ်သည်။
@@ -44,10 +44,10 @@ It is up to you whether you remain the patient on the operating table, or become
 # အခန်း ၁ - လက်အောက်ခံမှု၏ ဇီဝကမ္မဗေဒ
 
 **English**  
-![Extensive-Form Game Tree (Fine-Art)](../assets/Book_2_The_Operators_Scalpel_v4_source/b2_fineart_c1_1783577579856.jpg)
+![Extensive-Form Game Tree (Fine-Art)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_fineart_c1_1783577579856.jpg)
 
 **မြန်မာ**  
-![Extensive-Form Game Tree](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_1_ch1_1783567915572.jpg)
+![Extensive-Form Game Tree](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_fineart_c1_1783577579856.jpg)
 
 **English**  
 The human brain is a predatory calculation engine, shaped by millions of years on the brutal anvil of the savannah. Its primary function is not the pursuit of truth, but the assessment of power. When an animal encounters a rival, the nervous system instantly processes a lethal geometry: who is larger, who is higher, who controls the space. This is the primal hardware of Dominance, a state enforced by the sheer threat of violence. Under the shadow of dominance, a subordinate’s brain floods with cortisol, the stress hormone, while testosterone plummets. This chemical cocktail paralyzes defiance, forcing the body into a risk-averse, low-power physiological posture. As early hominids evolved, a secondary, more sophisticated system emerged: Prestige. Prestige is power granted willingly by the tribe in exchange for competence and social value. For tens of thousands of years, our egalitarian ancestors utilized reverse dominance hierarchies—using gossip, ostracism, and collective violence to suppress any single alpha who attempted to rule by dominance alone.
@@ -166,10 +166,10 @@ When they finally arrive at the point of negotiation, offer them nothing. Do not
 # အခန်း ၂ - Anterior Cingulate Cortex အလွဲသုံးစားမှုကို ကာကွယ်ခြင်း
 
 **English**  
-![Network Severance Graph (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c2.jpg)
+![Network Severance Graph (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch2_acc_isolation_1783594020962.jpg)
 
 **မြန်မာ**  
-![Network Severance Graph](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_2_ch2_1783567924913.jpg)
+![Network Severance Graph](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch2_acc_isolation_1783594020962.jpg)
 
 **English**  
 To the primal human, the wilderness was a death sentence. The tribe was the only sanctuary against starvation and predators. Over millions of years, evolution engineered a ruthless enforcement mechanism to ensure individuals did not stray from the collective: pain. The brain did not invent a separate, specialized system to process hurt feelings. Instead, it hijacked the existing circuitry for physical trauma.
@@ -302,10 +302,10 @@ Driven by the biological agony of ostracism, the target will behave erratically.
 # အခန်း ၃ - ညွန့်ပေါင်းအဖွဲ့၏ တွက်ချက်မှု
 
 **English**  
-![Weighted Voting Matrix (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c3.jpg)
+![Weighted Voting Matrix (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch3_coalitions_1783594031831.jpg)
 
 **မြန်မာ**  
-![Weighted Voting Matrix](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_3_ch3_1783567934367.jpg)
+![Weighted Voting Matrix](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch3_coalitions_1783594031831.jpg)
 
 **English**  
 Power is rarely held by the single strongest ape. It is held by the ape who best understands the mathematics of the troop. In the evolutionary crucible of the Pleistocene, physical dominance was a precarious asset. A massive, solitary alpha could easily be destroyed in his sleep by three weaker, coordinated rivals. Thus, the human brain developed a profound, unconscious aptitude for the calculus of alliances. At its core is Dunbar’s number—the hardwired cognitive limit of roughly 150 stable social relationships. We are biologically constrained, forcing us to prioritize, rank, and categorize every connection. Within this network, the primate brain instinctively tracks "triadic closure": if individual A and individual B share a mutual enemy in C, the gap between A and B biologically demands to be closed. We are not just social animals; we are network architects, constantly scanning the perimeter for leverage, grievances, and the vulnerabilities of the apex.
@@ -408,10 +408,10 @@ The most efficient way to topple an Alpha is not to strike them yourself, but to
 # အခန်း ၄ - သွယ်ဝိုက်သော အပြန်အလှန် အကျိုးပြုခြင်းနှင့် ဂုဏ်သတင်း လုပ်ကြံခြင်း
 
 **English**  
-![Image Scoring Model (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c4.jpg)
+![Image Scoring Model (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch4_reputation_1783594041798.jpg)
 
 **မြန်မာ**  
-![Image Scoring Model](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_4_ch4_1783567943729.jpg)
+![Image Scoring Model](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch4_reputation_1783594041798.jpg)
 
 **English**  
 In the ancestral environment, the spear was not the most dangerous weapon. It was the whisper. The human brain evolved a unique mechanism for survival known as *indirect reciprocity*—a complex calculus of reputation tracking. Unlike direct reciprocity, where two individuals trade favors, indirect reciprocity relies on third-party observation. *I help you, so someone else will help me.* It is the invisible currency of trust. Gossip evolved not as idle chatter, but as a ruthless biological imperative to identify free-riders and enforce social cohesion. The neural circuitry that processes reputation is deeply intertwined with the brain's survival centers. To destroy a man's reputation is to trigger a biological death sentence, severing him from the tribe's protection. The master of power understands that they do not need to strike an enemy directly; they only need to manipulate the tribe’s perception, turning the collective into an unwitting executioner.
@@ -508,10 +508,10 @@ The pinnacle of reputation assassination is not the lie you tell about your targ
 # အခန်း ၅ - သစ္စာဖောက်ခြင်း၏ သင်္ချာ
 
 **English**  
-![Horizon of Betrayal (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c5.jpg)
+![Horizon of Betrayal (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch5_betrayal_1783594053461.jpg)
 
 **မြန်မာ**  
-![Horizon of Betrayal](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_5_ch5_1783567952729.jpg)
+![Horizon of Betrayal](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch5_betrayal_1783594053461.jpg)
 
 **English**  
 In the brutal arithmetic of early human survival, betrayal was not an anomaly; it was a mathematical certainty waiting to be triggered by environmental scarcity. The Pleistocene epoch did not reward the inherently trusting; it rewarded the deeply paranoid and the swiftly ruthless. When two hunter-gatherer bands encountered one another over a fresh kill or a fertile valley, they entered the primal iteration of the Prisoner's Dilemma. The math was violently simple: cooperate and risk being slaughtered if the other betrayed, or betray first and guarantee survival. In a zero-sum environment where one tribe's feast meant another's starvation, the optimal strategy for ensuring genetic continuation was never blind trust. It was the calculated strike. The human brain evolved to constantly weigh the probabilities of cooperation against the lucrative, bloody dividends of a sudden, lethal betrayal. Those who mastered this dark calculus lived. Those who assumed good faith became footnotes in the dust.
@@ -600,10 +600,10 @@ When the mathematics of a relationship shift into a zero-sum death spiral, hesit
 # အခန်း ၆ - ဆုလာဘ်လမ်းကြောင်း ယန္တရားများ (Reward Circuitry) အင်ဂျင်
 
 **English**  
-![Stochastic Reward System (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c6.jpg)
+![Stochastic Reward System (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch6_reward_circuitry_1783594065397.jpg)
 
 **မြန်မာ**  
-![Stochastic Reward System](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_7_ch6_b_1783567972997.jpg)
+![Stochastic Reward System](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch6_reward_circuitry_1783594065397.jpg)
 
 **English**  
 Deep within the midbrain, nestled in the ventral tegmental area, lies the architecture of desire. The mesolimbic pathway does not exist to reward you for arriving at a destination; it exists to compel you to seek it. This is the neurochemical engine of dopamine. It is not the molecule of pleasure, but the molecule of anticipation, craving, and pursuit. In the Pleistocene epoch, early hominids did not find sustenance on a predictable schedule. The primal hunt was an exercise in starvation punctuated by sudden, glorious windfalls. The brain evolved to prioritize the unpredictable. When a reward is guaranteed, the dopaminergic response flatlines. But when a reward is uncertain—when it is delivered on a variable-ratio reinforcement schedule—dopamine spikes to dizzying heights. The hunt becomes an obsession. The uncertainty is the hook.
@@ -710,10 +710,10 @@ When the target has exhausted themselves and delivered exactly what you require,
 # အခန်း ၇ - အချိုးမညီသော ပွတ်တိုက်မှုနှင့် ရွေးချယ်မှု တည်ဆောက်ပုံ
 
 **English**  
-![Friction Topography (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c7.jpg)
+![Friction Topography (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch7_asymmetric_friction_1783594077521.jpg)
 
 **မြန်မာ**  
-![Agenda Setting Friction](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_8_ch7_1783567981493.jpg)
+![Agenda Setting Friction](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch7_asymmetric_friction_1783594077521.jpg)
 
 **English**  
 The human brain is an engine of ruthless metabolic efficiency. Consuming roughly twenty percent of the body’s caloric burn while occupying only two percent of its mass, it is perpetually on the precipice of energetic bankruptcy. To survive the brutal scarcity of the ancestral environment, evolution hardwired us with a profound, subconscious aversion to cognitive friction. Thinking, deciding, and resisting are metabolically expensive. The path of least resistance is not merely a psychological preference; it is a biological imperative. Because of this, humans are extraordinarily vulnerable to the manipulation of defaults. When presented with an environment where one option requires zero effort and another requires sustained cognitive or physical exertion, the brain will almost universally default to the frictionless path. We mistake the absence of friction for the presence of truth, and we interpret the default option as the safest choice. The primal human is governed not by the illusion of free will, but by the silent architecture of their environment. Power, therefore, does not require a spear. It only requires the ability to dictate the physical and cognitive terrain, making obedience effortless and defiance exhausting.
@@ -800,7 +800,7 @@ The goal is not to formally deny them their rights or objectives, but to make th
 To master choice architecture is to realize that humans do not want freedom; they want the illusion of freedom without the burden of deliberation. Drawing on McKelvey's chaos theorem, The Hobson’s Trap can be formally modeled as a sequential agenda-setting game. You do not force your target to accept your preferred outcome. Instead, you dictate the order and nature of the choices, boxing them in by manufactured extremes and forcing them to beg you for the exact chains you always intended to place upon them.
 
 **မြန်မာ**  
-![Ultimatum Game Model](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_9_ch8_1783567990221.jpg)
+![Ultimatum Game Model](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch8_supranormal_stimuli_1783594090935.jpg)
 
 ```mermaid
 graph TD
@@ -837,7 +837,7 @@ Allow the target to agonize over these catastrophic paths. Let the cognitive fri
 ### အန္တရာယ်ပုံစံနှင့် ကာကွယ်ရေး မူဘောင် - ဖန်တီးထားသော သိမြင်မှုဆိုင်ရာ လိုဏ်ခေါင်းဝင်ခြင်း (Induced Cognitive Tunneling)
 
 **English**  
-![Attention Hijack Vector (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c8.jpg)
+![Attention Hijack Vector (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch8_supranormal_stimuli_1783594090935.jpg)
 
 **မြန်မာ**  
 > **ထုတ်ဝေမှု V4.1 မူဘောင်:** ဤအပိုင်းကို အသုံးချရန် လမ်းညွှန်အဖြစ် မဖတ်ရပါ။ ၎င်းသည် အဖွဲ့အစည်းများ၊ တည်ထောင်သူများနှင့် စာဖတ်သူများက ထိန်းချုပ်မှုနည်းလမ်းများကို အသိအမှတ်ပြု၊ မှတ်သား၊ တားဆီးနိုင်ရန် ဖော်ပြထားသော အန္တရာယ်ပုံစံဖြစ်သည်။
@@ -888,7 +888,7 @@ The public, hardwired to react to social threats, locks onto the controversy. Th
 To weaponize attention and break a target’s psychological defenses, you must force them into a state of "cognitive tunneling"—a psychological phenomenon where acute stress causes the brain to focus exclusively on the immediate threat, blinding it to the broader context and all peripheral solutions.
 
 **မြန်မာ**  
-![Predictive Neutralization](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_10_ch9_1783568280897.jpg)
+![Predictive Neutralization](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch9_predictive_disempowerment_1783594099974.jpg)
 
 **English**  
 **1. The Incubation of Threat**
@@ -940,7 +940,7 @@ graph TD
 ### အန္တရာယ်ပုံစံနှင့် ကာကွယ်ရေး မူဘောင် - ထိတ်လန့်ကြောက်ရွံ့မှု အင်ဂျင်နီယာပညာ (Paranoia Engineering)
 
 **English**  
-![The Silent Panopticon (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c9.jpg)
+![The Silent Panopticon (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch9_predictive_disempowerment_1783594099974.jpg)
 
 **မြန်မာ**  
 > **ထုတ်ဝေမှု V4.1 မူဘောင်:** ဤအပိုင်းကို အသုံးချရန် လမ်းညွှန်အဖြစ် မဖတ်ရပါ။ ၎င်းသည် အဖွဲ့အစည်းများ၊ တည်ထောင်သူများနှင့် စာဖတ်သူများက ထိန်းချုပ်မှုနည်းလမ်းများကို အသိအမှတ်ပြု၊ မှတ်သား၊ တားဆီးနိုင်ရန် ဖော်ပြထားသော အန္တရာယ်ပုံစံဖြစ်သည်။
@@ -1032,7 +1032,7 @@ flowchart TD
 # Conclusion: The Final Apex
 
 **English**  
-![The Final Apex (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_conclusion.jpg)
+![The Final Apex (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/main-cover.jpg)
 
 **English**  
 We began this journey on the sun-baked dust of the Pleistocene savannah, where power was measured in bone density and the sheer, physical terror of the alpha primate. We traced the evolution of dominance as it scaled into the marble courts of empires, where the whisper replaced the spear, and architecture was weaponized to shatter the human ego. We watched as the blunt force of the sovereign was refined into the sterile, bloodless violence of the modern corporate boardroom, where term sheets and cap tables function as the new mechanisms of absolute control. Finally, we arrived at the silent Panopticon of the algorithmic age—an era where power is no longer about reacting to threats, but about predicting and eradicating them before they are even conceived.

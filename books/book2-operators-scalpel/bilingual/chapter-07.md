@@ -1,10 +1,10 @@
 # အခန်း ၇ - အချိုးမညီသော ပွတ်တိုက်မှုနှင့် ရွေးချယ်မှု တည်ဆောက်ပုံ
 
 **English**  
-![Friction Topography (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c7.jpg)
+![Friction Topography (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch7_asymmetric_friction_1783594077521.jpg)
 
 **မြန်မာ**  
-![Agenda Setting Friction](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_8_ch7_1783567981493.jpg)
+![Agenda Setting Friction](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch7_asymmetric_friction_1783594077521.jpg)
 
 **English**  
 The human brain is an engine of ruthless metabolic efficiency. Consuming roughly twenty percent of the body’s caloric burn while occupying only two percent of its mass, it is perpetually on the precipice of energetic bankruptcy. To survive the brutal scarcity of the ancestral environment, evolution hardwired us with a profound, subconscious aversion to cognitive friction. Thinking, deciding, and resisting are metabolically expensive. The path of least resistance is not merely a psychological preference; it is a biological imperative. Because of this, humans are extraordinarily vulnerable to the manipulation of defaults. When presented with an environment where one option requires zero effort and another requires sustained cognitive or physical exertion, the brain will almost universally default to the frictionless path. We mistake the absence of friction for the presence of truth, and we interpret the default option as the safest choice. The primal human is governed not by the illusion of free will, but by the silent architecture of their environment. Power, therefore, does not require a spear. It only requires the ability to dictate the physical and cognitive terrain, making obedience effortless and defiance exhausting.

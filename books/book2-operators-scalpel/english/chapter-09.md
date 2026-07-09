@@ -1,6 +1,6 @@
 # Chapter 9: Predictive Neutralization (The Silent Panopticon)
 
-![The Silent Panopticon (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c9.jpg)
+![The Silent Panopticon (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch9_predictive_disempowerment_1783594099974.jpg)
 
 The human brain is, at its core, a ruthless prediction engine. The neocortex did not evolve to perceive reality objectively; it evolved to probabilistically anticipate the immediate future based on historical patterns. Survival in the ancestral environment heavily favored the organism that could sense the subtle drop in barometric pressure before the monsoon, or the flattening of tall grass before the predator struck. Uncertainty was biologically expensive; anticipation was life. To know the future is the oldest, most primal imperative. But to weaponize that prediction—to not just anticipate the enemy, but to engineer their starvation before they even realize they are hungry—is the ultimate evolutionary apex. Dominance is no longer about reacting to threats. True, absolute power lies in quietly assassinating the timeline in which the threat ever existed.
 

@@ -1,10 +1,10 @@
 # အခန်း ၄ - သွယ်ဝိုက်သော အပြန်အလှန် အကျိုးပြုခြင်းနှင့် ဂုဏ်သတင်း လုပ်ကြံခြင်း
 
 **English**  
-![Image Scoring Model (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c4.jpg)
+![Image Scoring Model (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch4_reputation_1783594041798.jpg)
 
 **မြန်မာ**  
-![Image Scoring Model](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_4_ch4_1783567943729.jpg)
+![Image Scoring Model](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch4_reputation_1783594041798.jpg)
 
 **English**  
 In the ancestral environment, the spear was not the most dangerous weapon. It was the whisper. The human brain evolved a unique mechanism for survival known as *indirect reciprocity*—a complex calculus of reputation tracking. Unlike direct reciprocity, where two individuals trade favors, indirect reciprocity relies on third-party observation. *I help you, so someone else will help me.* It is the invisible currency of trust. Gossip evolved not as idle chatter, but as a ruthless biological imperative to identify free-riders and enforce social cohesion. The neural circuitry that processes reputation is deeply intertwined with the brain's survival centers. To destroy a man's reputation is to trigger a biological death sentence, severing him from the tribe's protection. The master of power understands that they do not need to strike an enemy directly; they only need to manipulate the tribe’s perception, turning the collective into an unwitting executioner.

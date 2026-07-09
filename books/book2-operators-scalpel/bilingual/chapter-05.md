@@ -1,10 +1,10 @@
 # အခန်း ၅ - သစ္စာဖောက်ခြင်း၏ သင်္ချာ
 
 **English**  
-![Horizon of Betrayal (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c5.jpg)
+![Horizon of Betrayal (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch5_betrayal_1783594053461.jpg)
 
 **မြန်မာ**  
-![Horizon of Betrayal](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_5_ch5_1783567952729.jpg)
+![Horizon of Betrayal](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch5_betrayal_1783594053461.jpg)
 
 **English**  
 In the brutal arithmetic of early human survival, betrayal was not an anomaly; it was a mathematical certainty waiting to be triggered by environmental scarcity. The Pleistocene epoch did not reward the inherently trusting; it rewarded the deeply paranoid and the swiftly ruthless. When two hunter-gatherer bands encountered one another over a fresh kill or a fertile valley, they entered the primal iteration of the Prisoner's Dilemma. The math was violently simple: cooperate and risk being slaughtered if the other betrayed, or betray first and guarantee survival. In a zero-sum environment where one tribe's feast meant another's starvation, the optimal strategy for ensuring genetic continuation was never blind trust. It was the calculated strike. The human brain evolved to constantly weigh the probabilities of cooperation against the lucrative, bloody dividends of a sudden, lethal betrayal. Those who mastered this dark calculus lived. Those who assumed good faith became footnotes in the dust.

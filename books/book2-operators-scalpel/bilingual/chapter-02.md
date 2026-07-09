@@ -1,10 +1,10 @@
 # အခန်း ၂ - Anterior Cingulate Cortex အလွဲသုံးစားမှုကို ကာကွယ်ခြင်း
 
 **English**  
-![Network Severance Graph (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c2.jpg)
+![Network Severance Graph (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch2_acc_isolation_1783594020962.jpg)
 
 **မြန်မာ**  
-![Network Severance Graph](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_2_ch2_1783567924913.jpg)
+![Network Severance Graph](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch2_acc_isolation_1783594020962.jpg)
 
 **English**  
 To the primal human, the wilderness was a death sentence. The tribe was the only sanctuary against starvation and predators. Over millions of years, evolution engineered a ruthless enforcement mechanism to ensure individuals did not stray from the collective: pain. The brain did not invent a separate, specialized system to process hurt feelings. Instead, it hijacked the existing circuitry for physical trauma.
