@@ -86,12 +86,12 @@
 
 ```mermaid
 graph TD
-    A("(Hub")) --- B("(Node"))
-    A --- C("(Node"))
-    A --- D("(Node"))
-    A --- E("(Node"))
-    B --- F("(Node"))
-    C --- G("(Node"))
+    A((Hub)) --- B((Node))
+    A --- C((Node))
+    A --- D((Node))
+    A --- E((Node))
+    B --- F((Node))
+    C --- G((Node))
     style A fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
