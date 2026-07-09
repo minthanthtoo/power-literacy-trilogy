@@ -5,6 +5,13 @@ theme:
 
 nav:
   - Home: README.md
+  - Book 1:
+      - Full Book: books/book1-evolutionary-firmware/full-book.md
+      - Introduction & Laws 1-9: books/book1-evolutionary-firmware/part-1.md
+      - Laws 10-19: books/book1-evolutionary-firmware/part-2.md
+      - Laws 20-29: books/book1-evolutionary-firmware/part-3.md
+      - Laws 30-39: books/book1-evolutionary-firmware/part-4.md
+      - Laws 40-48: books/book1-evolutionary-firmware/part-5.md
   - Book 2:
       - Overview: books/book2-operators-scalpel/index.md
       - Introduction: books/book2-operators-scalpel/introduction.md
@@ -19,5 +26,21 @@ nav:
       - Chapter 9: books/book2-operators-scalpel/chapter-09-predictive-disempowerment.md
       - Conclusion: books/book2-operators-scalpel/conclusion.md
       - Full Book: books/book2-operators-scalpel/full-book.md
+  - Book 3:
+      - Full Book: books/book3-singularity-of-power/full-book.md
+      - Introduction: books/book3-singularity-of-power/00_introduction.md
+      - Chapter 1: books/book3-singularity-of-power/01_chapter-01.md
+      - Chapter 2: books/book3-singularity-of-power/02_chapter-02.md
+      - Chapter 3: books/book3-singularity-of-power/03_chapter-03.md
+      - Chapter 4: books/book3-singularity-of-power/04_chapter-04.md
+      - Chapter 5: books/book3-singularity-of-power/05_chapter-05.md
+      - Chapter 6: books/book3-singularity-of-power/06_chapter-06.md
+      - Chapter 7: books/book3-singularity-of-power/07_chapter-07.md
+      - Chapter 8: books/book3-singularity-of-power/08_chapter-08.md
+      - Chapter 9: books/book3-singularity-of-power/09_chapter-09.md
+      - Chapter 10: books/book3-singularity-of-power/10_chapter-10.md
+      - Chapter 11: books/book3-singularity-of-power/11_chapter-11.md
+      - Conclusion: books/book3-singularity-of-power/12_conclusion.md
+      - Bibliography: books/book3-singularity-of-power/13_bibliography.md
   - Reports:
       - Publication Readiness: reports/publication-readiness.md
