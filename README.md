@@ -2,14 +2,14 @@
 
 ![Power Literacy Trilogy Cover](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/main-cover.jpg)
 
-> **A Scientific & Defensive Intelligence Reframing of the 48 Laws of Power**
+> **A Scientific & Defensive Intelligence Reframing of Robert Greene's *The 48 Laws of Power***
 >
 > ⚠️ **Important Note on Ethics & Safety**: This edition has been structurally rewritten to serve strictly as **Defensive Intelligence**. The material herein models coercive systems, algorithmic manipulation, and dominance structures so that readers can detect, document, and defend against them. **It is NOT an instruction manual for manipulation, coercion, harassment, or abuse.** 
 
 ## 🎯 Target Audience
 This trilogy is specifically engineered for **Founders, Executives, Operators, Policymakers, and Red-teamers**. 
 
-If you are building systems, managing teams, or navigating complex organizational structures, you are operating within unseen power dynamics. The historical *"48 Laws of Power"* focused on individual conquest. This trilogy translates those concepts into **modern risk models, behavioral science frameworks, and systems thinking**—equipping you with the literacy required to safeguard your agency, prevent organizational toxicity, and establish ethical boundaries.
+If you are building systems, managing teams, or navigating complex organizational structures, you are operating within unseen power dynamics. While **Robert Greene's** historical masterpiece, ***The 48 Laws of Power***, focused on individual conquest and machiavellian strategy, this trilogy translates those timeless concepts into **modern risk models, behavioral science frameworks, and systems thinking**. We equip you with the literacy required to safeguard your agency, prevent organizational toxicity, and establish ethical boundaries against coercive actors.
 
 ## 📚 The Books
 
