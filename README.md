@@ -1,8 +1,6 @@
 # Power Literacy Trilogy
 
-<div align="center">
-  <img src="assets/cover.png" alt="Power Literacy Trilogy Cover" width="100%">
-</div>
+![Power Literacy Trilogy Cover](assets/cover.png)
 
 > **A Scientific & Defensive Intelligence Reframing of the 48 Laws of Power**
 >
