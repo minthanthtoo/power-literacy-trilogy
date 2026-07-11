@@ -212,6 +212,9 @@ It is closing now.
 
 # အခန်း ၁ - ဒါရိုက်တာအဖွဲ့၏ အလိုအလျောက်လည်ပတ်မှုစနစ်
 
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book3/b3_c1_automation_boardroom_1783576006558.jpg)
+
+
 **English**  
 It begins with a dashboard.
 
@@ -568,6 +571,9 @@ We must urgently reframe human attention as a shared natural resource—the *Cog
 
 # အခန်း ၃ - ပေါင်းစပ်ဖန်တီးထားသော လုပ်သားအင်အား
 
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book3/b3_c3_synthetic_workforce_1783576620184.jpg)
+
+
 **English**  
 To understand why attention is a zero-sum, finite resource, we must return to the biological constraints of the primate brain. The human brain is a metabolic furnace; though it accounts for only about 2% of our body weight, it consumes 20% of our resting energy. Sustained, top-down attention—the kind required to parse a complex argument, read a long-form article, or deliberate on policy—is mediated by the prefrontal cortex. This process is metabolically expensive and highly fatigable.
 
@@ -678,6 +684,9 @@ When your feed is a bespoke, algorithmic mirror designed to reflect and amplify 
 ---
 
 # အခန်း ၄: သိမြင်မှုဆိုင်ရာ ဘုံပိုင်ပစ္စည်း
+
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book3/b3_c4_cognitive_commons_1783576632699.jpg)
+
 
 **English**  
 For the past decade, the dominant cultural response to this crisis has been deeply individualized. We are told to practice "digital hygiene," to use screen-time limiters, to undergo "dopamine detoxes," and to cultivate mindfulness. This framing is not just insufficient; it is a category error that serves the interests of the extractors.
@@ -1757,6 +1766,9 @@ flowchart TD
 
 # အခန်း ၁၀: တည်ဆောက်ပုံ​ဆိုင်ရာ ဝင်ရောက်​စွက်ဖက်ခြင်းများ
 
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book3/b3_c1_automation_boardroom_1783576006558.jpg)
+
+
 **မြန်မာ**  
 အယ်လဂိုရီသမ် မကိုက်ညီမှု ပြဿနာ​အပေါ် ရိုးအသော တုံ့ပြန်မှုမှာ အစိုးရ၏ စည်းမျဉ်း​သတ်မှတ်ခြင်းကို တောင်းဆိုခြင်းပင် ဖြစ်သည်။ မော်ဒယ်များကို ဘေးကင်းရေး​အတွက် စမ်းသပ်ရန် "သိမြင်မှု​ဆိုင်ရာ FDA" တစ်ခုကို တောင်းဆိုခြင်းမျိုး ဖြစ်သည်။ ဤသည်ကား အားနည်းသူ​တို့ ခိုလှုံရာသာ ဖြစ်ပေသည်။ ပါးနပ်စွာ အကွက်ချ​စီမံတတ်သူ (operator) သည် မိမိကို ကာကွယ်ပေးရန် နိုင်ငံတော်ကို မျှော်လင့်​စောင့်စား​နေမည် မဟုတ်ပေ။ ထိုသူသည် နိုင်ငံတော်၏ အချိုးမကျ​သော စည်းမျဉ်းပိုင်း​ဆိုင်ရာ တုံ့ပြန်မှု​များကို ပြိုင်ဘက်များ​အား ခြေမှုန်းရန် လက်နက်အဖြစ် အသုံးချလေသည်။
 
@@ -1801,6 +1813,9 @@ flowchart TD
 ---
 
 # အခန်း ၁၁ - ကိုယ်ပိုင်ဆုံးဖြတ်လုပ်ဆောင်နိုင်စွမ်း ပျောက်ကွယ်သွားခြင်း (The Extinction of Agency)
+
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book3/b3_c1_automation_boardroom_1783576006558.jpg)
+
 
 **မြန်မာ**  
 ဒီအဖြစ်အပျက်က ရိုးရှင်းပြီး သီးသန့်ဆန်တဲ့ ဓလေ့တစ်ခုနဲ့ စတင်ပါတယ်။ ကုမ္ပဏီတည်ထောင်သူ အမျိုးသမီးတစ်ဦးကို မြင်ယောင်ကြည့်ပါ။ သူမဟာ ထက်မြက်ပြီး ပြတ်သားသူတစ်ဦးဖြစ်သလို၊ ကိုယ်ထူးကိုယ်ချွန် အောင်မြင်လာသူတစ်ဦးဆိုတဲ့ ဒဏ္ဍာရီတွေနဲ့ ကျော်ကြားသူလည်း ဖြစ်ပါတယ်။ သူမဟာ ည ၉ နာရီခွဲအချိန် ရုံးခန်းထဲမှာ တစ်ကိုယ်တည်း ထိုင်နေပြီး ဒေါ်လာ ဘီလီယံ ၄၀ တန် အင်ပါယာကြီးရဲ့ မဟာဗျူဟာမြောက် လမ်းပြမြေပုံကို ပြန်လည်သုံးသပ်နေပါတယ်။ ဘုတ်အဖွဲ့ကို တင်ပြဖို့အတွက် ပြင်ဆင်နေတာပါ။ အဲဒီနောက် သူမရဲ့ ကုမ္ပဏီက လွန်ခဲ့တဲ့ သုံးနှစ်ကတည်းက တည်ဆောက်ခဲ့တဲ့ ဉာဏ်ရည်တု (AI) ဆုံးဖြတ်ချက်ချတဲ့ အင်ဂျင်ကို ဖွင့်လိုက်ပါတယ်။ ဒီအင်ဂျင်ရဲ့ ရည်ရွယ်ချက်တွေကို သူမကိုယ်တိုင် ဖန်တီးခဲ့တာဖြစ်ပြီး၊ အဲဒါကို သူမရဲ့ "စစ်ဆင်ရေးအခန်း" လို့လည်း ခေါ်ပါတယ်။ လွန်ခဲ့တဲ့ ၂၄ လအတွင်း ချမှတ်ခဲ့တဲ့ အဓိက မဟာဗျူဟာ အပြောင်းအလဲတွေကို အကျဉ်းချုပ်ပေးဖို့ AI ကို သူမက ခိုင်းလိုက်ပါတယ်။ စနစ်က ချက်ချင်းပဲ တုံ့ပြန်လာပါတယ်။ အဓိကဆုံးဖြတ်ချက်တိုင်းကို အပြစ်အနာအဆာကင်းကင်းနဲ့ အချိန်ဇယားဆွဲပြီး မှတ်ချက်တွေနဲ့တကွ ပြသပေးပါတယ်။ ဥပမာ- အရှေ့တောင်အာရှဈေးကွက်ကို တိုးချဲ့တာ၊ ဓာတုဇီဝဗေဒ startup ကို ဝယ်ယူတာ၊ အရင်ကတည်းကရှိနေတဲ့ ဟာ့ဒ်ဝဲ ဌာနခွဲကို တိတ်တဆိတ် စွန့်လွှတ်လိုက်တာ၊ ပင်မထုတ်ကုန်ကို စာရင်းသွင်းမှု မော်ဒယ် (subscription model) ပုံစံ ပြောင်းလဲနေရာချထားတာ၊ ပြင်းထန်တဲ့ အလုပ်ခေါ်ယူမှု ရပ်ဆိုင်းတာတွေ (aggressive hiring freeze) နဲ့ အဲဒီနောက်ကနေ ပါလာတဲ့ Wall Street ကတောင် လက်ခုပ်တီး အားပေးခဲ့ရတဲ့ ခွဲစိတ်ကုသမှုလို တိကျတဲ့ ဝန်ထမ်းလျှော့ချမှုတွေ (surgical reduction in force) ပါဝင်ပါတယ်။ သူမက စာရင်းကို ဖတ်ပြီး ခေါင်းညိတ်လိုက်ပါတယ်။ ဒါတွေဟာ ကောင်းမွန်တဲ့ ဆုံးဖြတ်ချက်တွေပါ။ သူမကိုယ်တိုင် ချမှတ်ခဲ့တဲ့ ဆုံးဖြတ်ချက်တွေလည်း ဖြစ်ပါတယ်။
