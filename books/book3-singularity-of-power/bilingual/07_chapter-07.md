@@ -4,7 +4,6 @@
 The evolutionary mismatch between our Paleolithic brains and god-like technology cannot be resolved through individual willpower or clumsy, centralized bureaucracies. The stakes—our shared reality, our empathy networks, and our capacity for self-governance—are simply too high.
 
 **မြန်မာ**  
-![ဆာဗာစင်များဖြင့် ပြုလုပ်ထားသော အော်တိုမန် Kafes (နေရာယူထားခြင်း - ရုပ်ပုံဖန်တီးမှု ခွဲတမ်းကို စောင့်ဆိုင်းနေပါသည်)](/Users/min/.gemini/antigravity/brain/061c0c3a-220a-4aec-8185-7808a48184d4/book_3_ottoman_kafes.jpg)
 
 **English**  
 We must build systemic leverage. Through the collective power of Data Unions, we can reclaim our biological sovereignty and assert our cognitive rights. Through aggressive algorithmic externalities taxes, we can dismantle the financial engine of the attention economy. These interventions are deliberately frictional; they are designed to slow down the relentless machinery of extraction and carve out the necessary space for human agency. We must redesign the architecture of the digital world not to optimize our behavioral data, but to protect the sacred, irreplaceable sanctum of the primate mind.

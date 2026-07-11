@@ -25,7 +25,6 @@ Actively hasten the obsolescence of the human knowledge workers your competitors
 
 As cognitive labor becomes commoditized, the last scarce resource is the ability to *frame* what the data means. Position yourself as the interpreter. The analyst is a machine now. The interpreter—the one who synthesizes the machine's output into a narrative that moves markets and redirects capital flows—is the new priest. Control the narrative layer, and the machine works for you. Lose it, and you become what the machine was built to replace: an expensive, inefficient human bottleneck.
 
-
 ---
 
 ---

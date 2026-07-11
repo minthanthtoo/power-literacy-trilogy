@@ -62,7 +62,6 @@ Book 3 requires you to confront a possibility that is far more unsettling. You m
 
 It is closing now.
 
-
 ---
 
 ---

@@ -22,7 +22,6 @@ You do this by executing the Epistemic Moat. The operator understands that the w
 
 The Epistemic Moat is not a mechanism for committing crimes. It is a mechanism for rendering the truth computationally intractable. When evidence dies, the sovereign speaks, and what the sovereign speaks becomes, by default, the only truth that matters. The deepfake did not create this dynamic. It merely accelerated a tendency as old as civilization itself—the tendency of power to define reality in its own image. And in the rubble of corporate accountability, only the architect remains standing.
 
-
 ---
 
 ---

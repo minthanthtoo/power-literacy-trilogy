@@ -2,7 +2,6 @@
 
 ![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book3/b3_c4_cognitive_commons_1783576632699.jpg)
 
-
 In the mid-twentieth century, as the smog of industrialization choked London and rivers in the United States periodically caught fire, a paradigm shift occurred in how humanity understood the natural world. We recognized that certain resources—the air we breathe, the water we drink, the ecological systems that sustain agriculture—do not belong to any single corporation or individual. They are the "commons," a shared inheritance essential to collective survival. When a factory dumps toxic effluent into a river, it externalizes its costs onto the public, effectively borrowing from the health of the community to subsidize private profit.
 
 Today, we are living through the quiet, invisible degradation of an equally critical natural resource, one that resides not in the physical biosphere, but within the neurobiology of the human species. This resource is human attention, the finite cognitive bandwidth that allows us to perceive, reason, empathize, and ultimately cooperate. 
@@ -44,7 +43,6 @@ Pivot from individualized guilt to structural ecology. We must recognize that al
 When the cognitive commons is polluted with this noise, society loses the capacity to govern itself. The ability to reason collectively is the defining evolutionary advantage of *Homo sapiens*. If we lose our shared attention, we lose our collective agency. 
 
 Protecting this resource requires us to treat cognitive extraction as a structural hazard. It necessitates a paradigm shift in how we regulate the attention economy, moving away from simple data privacy concerns toward the preservation of human cognitive sovereignty. Defending this commons is not merely a matter of improving mental health; it is a prerequisite for the survival of complex, cooperative civilization in the algorithmic age.
-
 
 ---
 

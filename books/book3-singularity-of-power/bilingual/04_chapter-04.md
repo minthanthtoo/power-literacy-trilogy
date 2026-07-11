@@ -2,7 +2,6 @@
 
 ![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book3/b3_c4_cognitive_commons_1783576632699.jpg)
 
-
 **English**  
 For the past decade, the dominant cultural response to this crisis has been deeply individualized. We are told to practice "digital hygiene," to use screen-time limiters, to undergo "dopamine detoxes," and to cultivate mindfulness. This framing is not just insufficient; it is a category error that serves the interests of the extractors.
 

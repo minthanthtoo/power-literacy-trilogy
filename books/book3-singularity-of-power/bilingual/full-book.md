@@ -4,7 +4,6 @@
 It is 2:47 in the morning, and you are staring at a dashboard.
 
 **မြန်မာ**  
-![Introduction Art](../assets/Book_3_Singularity_v4_draft/book_3_image_1_1783503463209.jpg)
 
 **English**  
 Not a crisis dashboard. Not a war room. Just the quiet, ambient glow of your operational analytics—the nervous system of the empire you built. Revenue is up. Churn is down. Three new market verticals opened in the last quarter, each one surgically targeted, each one profitable within weeks. Your board called it visionary. Your investors called it genius. The profile in *Forbes* used the word "instinct."
@@ -573,7 +572,6 @@ We must urgently reframe human attention as a shared natural resource—the *Cog
 To understand why attention is a zero-sum, finite resource, we must return to the biological constraints of the primate brain. The human brain is a metabolic furnace; though it accounts for only about 2% of our body weight, it consumes 20% of our resting energy. Sustained, top-down attention—the kind required to parse a complex argument, read a long-form article, or deliberate on policy—is mediated by the prefrontal cortex. This process is metabolically expensive and highly fatigable.
 
 **မြန်မာ**  
-![Automated Boardroom Art](../assets/Book_3_Singularity_v4_draft/book_3_image_2_1783503474923.jpg)
 
 **English**  
 Conversely, bottom-up attention—the reflexive orienting of our senses toward novel, moving, or emotionally salient stimuli (a loud noise, a flash of red, or an outrage-inducing headline)—is mediated by evolutionarily older regions of the brain like the amygdala. This system is rapid, metabolically cheap, and deeply involuntary.
@@ -1327,7 +1325,6 @@ By heavily taxing the negative externalities of engagement, we forcibly realign 
 The evolutionary mismatch between our Paleolithic brains and god-like technology cannot be resolved through individual willpower or clumsy, centralized bureaucracies. The stakes—our shared reality, our empathy networks, and our capacity for self-governance—are simply too high.
 
 **မြန်မာ**  
-![ဆာဗာစင်များဖြင့် ပြုလုပ်ထားသော အော်တိုမန် Kafes (နေရာယူထားခြင်း - ရုပ်ပုံဖန်တီးမှု ခွဲတမ်းကို စောင့်ဆိုင်းနေပါသည်)](/Users/min/.gemini/antigravity/brain/061c0c3a-220a-4aec-8185-7808a48184d4/book_3_ottoman_kafes.jpg)
 
 **English**  
 We must build systemic leverage. Through the collective power of Data Unions, we can reclaim our biological sovereignty and assert our cognitive rights. Through aggressive algorithmic externalities taxes, we can dismantle the financial engine of the attention economy. These interventions are deliberately frictional; they are designed to slow down the relentless machinery of extraction and carve out the necessary space for human agency. We must redesign the architecture of the digital world not to optimize our behavioral data, but to protect the sacred, irreplaceable sanctum of the primate mind.

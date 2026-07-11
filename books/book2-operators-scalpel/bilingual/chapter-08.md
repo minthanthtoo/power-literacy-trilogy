@@ -41,7 +41,6 @@ Allow the target to agonize over these catastrophic paths. Let the cognitive fri
 ### အန္တရာယ်ပုံစံနှင့် ကာကွယ်ရေး မူဘောင် - ဖန်တီးထားသော သိမြင်မှုဆိုင်ရာ လိုဏ်ခေါင်းဝင်ခြင်း (Induced Cognitive Tunneling)
 
 **English**  
-![Attention Hijack Vector (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c8.jpg)
 
 **မြန်မာ**  
 > **ထုတ်ဝေမှု V4.1 မူဘောင်:** ဤအပိုင်းကို အသုံးချရန် လမ်းညွှန်အဖြစ် မဖတ်ရပါ။ ၎င်းသည် အဖွဲ့အစည်းများ၊ တည်ထောင်သူများနှင့် စာဖတ်သူများက ထိန်းချုပ်မှုနည်းလမ်းများကို အသိအမှတ်ပြု၊ မှတ်သား၊ တားဆီးနိုင်ရန် ဖော်ပြထားသော အန္တရာယ်ပုံစံဖြစ်သည်။

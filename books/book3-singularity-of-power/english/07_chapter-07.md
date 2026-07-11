@@ -50,7 +50,6 @@ The final architecture ensures that satisfaction is temporary and desire is rene
 
 You do not compete in markets. You manufacture them. You do not satisfy desires. You author them. And the consumer who believes they are exercising free will inside your ecosystem is not a customer. They are a function executing your code, returning exactly the value you specified, on exactly the schedule you designed. The biological API is open for business. You wrote the documentation. You control the endpoints. And the only ones who do not know they are being called are the ones returning the data.
 
-
 ---
 
 ---

@@ -36,7 +36,6 @@ The evolutionary mismatch between our Paleolithic brains and god-like technology
 
 We must build systemic leverage. Through the collective power of Data Unions, we can reclaim our biological sovereignty and assert our cognitive rights. Through aggressive algorithmic externalities taxes, we can dismantle the financial engine of the attention economy. These interventions are deliberately frictional; they are designed to slow down the relentless machinery of extraction and carve out the necessary space for human agency. We must redesign the architecture of the digital world not to optimize our behavioral data, but to protect the sacred, irreplaceable sanctum of the primate mind.
 
-
 ---
 
 ---

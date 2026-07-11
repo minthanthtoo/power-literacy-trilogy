@@ -4,7 +4,6 @@
 It is 2:47 in the morning, and you are staring at a dashboard.
 
 **မြန်မာ**  
-![Introduction Art](../assets/Book_3_Singularity_v4_draft/book_3_image_1_1783503463209.jpg)
 
 **English**  
 Not a crisis dashboard. Not a war room. Just the quiet, ambient glow of your operational analytics—the nervous system of the empire you built. Revenue is up. Churn is down. Three new market verticals opened in the last quarter, each one surgically targeted, each one profitable within weeks. Your board called it visionary. Your investors called it genius. The profile in *Forbes* used the word "instinct."

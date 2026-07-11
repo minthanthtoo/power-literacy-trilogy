@@ -13,7 +13,6 @@ Network scientists have mapped how emotional states transmit through social netw
 
 When you associate with the unlucky and unhappy, you actively download their compromised decision-making algorithms and pessimistic heuristics. Their continuous stress responses trigger your own cortisol production, chronically degrading your physiological and cognitive baseline. You do not elevate them; their mass drags you down.
 
-
 ```mermaid
 flowchart TD
     subgraph SG1 ["The Cortisol Cascade"]
@@ -29,8 +28,6 @@ flowchart TD
 *   **Audit Your Network:** Map the emotional baseline of your inner circle. If a node is consistently negative, sever the connection before the contagion spreads.
 *   **Infect Yourself Upward:** Actively seek out and associate with high-agency, optimistic, and successful individuals. Leverage emotional contagion to download their winning heuristics and physiological states.
 *   **Suppress Empathy for the Chronically Doomed:** Recognize that chronic bad luck is rarely random; it is the output of defective behavioral algorithms. Do not let empathy override your survival instinct.
-
-
 
 ### Empirical Evidence: Myanmar Case Study
 A rising marketing executive in Naypyidaw noticed her performance declining when she shared an office with a deeply cynical colleague who constantly complained about management. Recognizing the emotional contagion, she requested a transfer to a high-performing, optimistic team. Her cortisol levels dropped, and her productivity skyrocketed as she absorbed the new team's winning heuristics.
@@ -65,8 +62,6 @@ To maximize power, you must manipulate the social exchange matrix. You must beco
 *   **Embed Yourself in the Infrastructure:** Do not just do the work; design the system so that it collapses without your ongoing intervention. Black-box your methods.
 *   **Calibrate the Dependency:** Keep the target perpetually hungry. Provide enough of the resource to sustain their operation, but never enough for them to achieve autonomy.
 
-
-
 ### Empirical Evidence: Myanmar Case Study
 An IT architect at a major Myanmar bank designed the core ledger system using highly obscure legacy code that only he understood. By making the infrastructure completely black-boxed and eliminating alternative technical documentation, he made himself structurally indispensable. When the bank tried to restructure, they found they couldn't fire him without risking systemic collapse, cementing his power.
 
@@ -99,8 +94,6 @@ This selectively triggered reciprocity bias disarms the target's vigilance. They
 *   **Manufacture Vulnerability:** Confess a minor, inconsequential flaw or truth early in the interaction. The target will immediately classify you as trustworthy, blinding them to your larger maneuvers.
 *   **Trigger the Reflex:** Do not wait for organic trust to form. Force the issue by proactively triggering the reciprocity reflex with selective honesty.
 *   **Execute the Extraction:** Once the target's cognitive defenses are lowered by the reciprocity bias, immediately move to extract your primary objective. Do not hesitate.
-
-
 
 ### Empirical Evidence: Myanmar Case Study
 During a tense negotiation for a telecom tower contract in rural Myanmar, a vendor confessed to a minor delay in a previous project, framing it as a commitment to radical transparency. This strategic disclosure triggered the reciprocity bias in the telecom operators. Disarmed by this selective honesty, they completely overlooked the vendor's heavily inflated maintenance fees embedded deep in the contract.
@@ -135,8 +128,6 @@ Conversely, humans are predictably driven by their own payoff structures. When y
 *   **Discard the Past:** Do not invoke past favors you have done for them. Gratitude decays rapidly. Focus entirely on the future yield they will receive by helping you now.
 *   **Remove Altruism from the Equation:** Design the interaction so that the target is acting entirely selfishly. Self-interest is the only fuel that never runs out.
 
-
-
 ### Empirical Evidence: Myanmar Case Study
 A local NGO struggling to secure funding for solar panels in off-grid Myanmar villages stopped appealing to corporate social responsibility. Instead, they pitched the project to a major telecom company by demonstrating how electrified villages would drastically increase mobile data consumption. By aligning the project with the telecom's greedy self-interest, they secured full funding within weeks.
 
@@ -168,8 +159,6 @@ In the realm of Information Economics, power is entirely dependent on resolving 
 *   **Map the Asymmetry:** Catalog every extracted fear, desire, and hidden resource. Maintain a ruthless internal ledger of the target's psychological weak points.
 *   **Conceal the Extraction:** Never reveal the intelligence you have gathered until the moment of execution. The illusion of friendship must remain flawless until the trap snaps shut.
 
-
-
 ### Empirical Evidence: Myanmar Case Study
 A multinational FMCG company wanting to enter the Myanmar market hired a local consultant who posed as a friendly industry networker. Under the guise of hosting casual networking dinners for local distributors, the consultant mapped out the entire supply chain and identified critical vulnerabilities in local competitors. This information asymmetry allowed the multinational to undercut local players flawlessly.
 
@@ -193,8 +182,6 @@ Eradicate the opponent's capacity for strategic retaliation. Partial victories l
 ## The Empirical Evidence
 Biological and game-theoretical models dictate that wounded opponents are the most dangerous. In evolutionary biology [▲ well-replicated], the Hawk-Dove model (Maynard Smith & Price, 1973) illustrates the logic of animal conflict. However, classical Hawk-Dove analysis reveals that pure 'total war' is rarely an Evolutionarily Stable Strategy (ESS); instead, systems reach a mixed equilibrium where aggressive displays balance against the cost of injury. Yet, when conflict is inevitable and the opponent plays Hawk, stopping short of total defeat is mathematically disastrous. The surviving organism retains its aggressive phenotype. To stabilize the system in a zero-sum death match, you must completely remove their node from the matrix, altering the game permanently. It eliminates the opponent's node from the network, permanently neutralizing the threat of a revenge cycle and signaling unassailable dominance to all observing third parties.
 
-
-
 **Hawk-Dove Payoff Matrix**
 
 | | Hawk | Dove |
@@ -207,8 +194,6 @@ Biological and game-theoretical models dictate that wounded opponents are the mo
 *   **Ignore Appeals for Mercy:** Recognize mercy as a cognitive error based on misplaced empathy. Empathy in terminal conflict simply subsidizes your opponent's future counter-attack.
 *   **Sever Their Network:** Cut off their access to allies and capital. Isolate them structurally so that regeneration becomes statistically impossible.
 *   **Salt the Earth:** Leave zero margin for their return. Complete the execution with clinical finality to establish a deterrence anchor that terrifies potential future challengers.
-
-
 
 ### Empirical Evidence: Myanmar Case Study
 After a bitter split, the co-founder of a Myanmar logistics startup didn't just compete with his former partner; he actively recruited away the partner's top drivers and locked down exclusive contracts with their primary suppliers. By escalating the conflict to total resource denial, he ensured the rival company went bankrupt before they could mount a retaliatory strike.
@@ -241,8 +226,6 @@ When a highly valued node abruptly withdraws from a social or professional netwo
 *   **Throttle Access:** Control the bottleneck of your availability. Respond unpredictably and rarely to communication, training the environment to treat your attention as a scarce, elite resource.
 *   **Re-enter at a Premium:** Return only when your perceived value has peaked. Extract maximum concessions or elevated status in exchange for restoring your presence to the system.
 
-
-
 ### Empirical Evidence: Myanmar Case Study
 A highly sought-after regulatory consultant in Yangon intentionally limited his client intake and frequently took long, unannounced sabbaticals abroad. This engineered scarcity triggered psychological reactance among top conglomerates. His absence artificially inflated his perceived value, allowing him to double his retainer fees every time he briefly re-emerged on the market.
 
@@ -268,8 +251,6 @@ Predictable behavior in a competitive environment guarantees defeat. John Nash (
 
 By injecting high information entropy into your actions, you destroy the opponent's ability to forecast your vector. The human brain is a predictive engine; when it cannot predict a threat, it spirals into cognitive overload and suspended terror. Unable to identify a single point of attack, the adversary is forced to split their defensive capital across all possible scenarios, thinning their lines and paralyzing their decision-making architecture.
 
-
-
 ```mermaid
 graph LR
     A[Opponent Strategy] -->|"Predictable"| B[Exploited]
@@ -281,8 +262,6 @@ graph LR
 *   **Weaponize Cognitive Overload:** Force adversaries to overthink. By doing the exact opposite of the rational expectation, you drag them into a vortex of analysis paralysis.
 *   **Conceal the Algorithm:** Never explain your motives or your chaotic actions. Let the silence breed paranoia, forcing them to invent terrifying rationales for your behavior.
 *   **Strike the Blind Spot:** Attack precisely where your randomized behavior has caused them to drop their guard. Exploit the gaps in their over-extended, panicked defensive matrix.
-
-
 
 ### Empirical Evidence: Myanmar Case Study
 The CEO of a Myanmar conglomerate maintained an air of erratic unpredictability, randomly auditing different subsidiaries and changing strategic directives without warning. This forced his division heads into a state of suspended terror, ensuring hyper-compliance and preventing any cohesive executive coalition from forming against him.
@@ -315,8 +294,6 @@ Building a fortress inherently disconnects a node from these vital weak ties. Ne
 *   **Abandon the Bunker:** When under threat, move outward, not inward. Mingle with the crowd, gather real-time intelligence, and dilute the target on your back by blending into the network.
 *   **Monopolize the Flow:** Make yourself the router. By becoming the central conduit for information between factions, you gain the power to filter, delay, or weaponize the intelligence they rely on.
 
-
-
 ### Empirical Evidence: Myanmar Case Study
 During the 2021 political shifts, a wealthy jade tycoon attempted to protect his assets by retreating to a heavily guarded compound and cutting off all external communication. This isolation severed his weak ties and blinded him to shifting regulatory winds. Without a network to provide early warnings, his assets were quietly frozen by authorities before he could react.
 
@@ -347,8 +324,6 @@ When you offend these personalities, you trigger a cascade of irrational, ego-dr
 *   **Avoid the Irrational:** Never initiate conflict with individuals who lack the cognitive brakes of rational self-interest. Retreat from them entirely.
 *   **Exploit the Predictable:** Reserve your offenses for stable, rational actors who calculate the cost of retaliation and will reliably back down when mathematically outmatched.
 *   **Weaponize the Volatile:** Redirect high-neuroticism individuals toward your enemies, allowing their irrational aggression to consume your competitors.
-
-
 
 ### Empirical Evidence: Myanmar Case Study
 A foreign investor casually insulted the slow pace of a provincial governor in Myanmar, misjudging him as a low-level bureaucrat. He failed to realize the governor was deeply connected to the military's top brass. The insult offended the wrong person, resulting in the immediate revocation of all the investor's operating licenses nationwide.

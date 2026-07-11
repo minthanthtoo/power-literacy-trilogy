@@ -14,7 +14,6 @@ Protecting the sanctity of this un-hacked mind is the defining ethical and exist
 
 The algorithmic mismatch is an unprecedented evolutionary challenge, but it need not be a terminal one. By embracing the reality of our biology, engineering structural friction back into our systems, and aggressively defending the quiet spaces necessary for deep work, we reclaim the narrative of human progress. We are not mere data points in a behavioral steering network; we are sovereign, conscious entities possessing the singular capacity for self-determination. The ultimate defense against the algorithmic age is not an algorithmic solution—it is, resolutely and profoundly, the preservation of our shared humanity. The moat is biological, it is deep, and it is ours to defend.
 
-
 ---
 
 ---
@@ -64,6 +63,5 @@ You can look at the perfection of the machine's logic and choose the friction of
 The dashboard is waiting. The green button is pulsing.
 
 What do you do?
-
 
 ---
