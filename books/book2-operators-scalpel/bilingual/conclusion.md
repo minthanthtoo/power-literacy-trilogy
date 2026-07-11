@@ -27,12 +27,12 @@ The human brain, wired by millions of years of evolution to fear the unseen pred
 
 ```mermaid
 flowchart TD
-    subgraph SG1 ["The Adversarial Loop"]
-        P1[Ingest Rival's Digital Exhaust] -->|"Pattern Recognition"| P2(Predictive Model Maps Intent)
-        P2 -->|"Execute Asymmetric Friction"| P3[Preempt & Neutralize Innovation]
-        P3 -->|"Information Asymmetry Weaponized"| P4{Paranoia Engineered}
-        P4 -->|"Rival Silos Internal Comms"| P5[Rival Organizational Paralysis]
-        P5 -->|"Generates More Erratic Data"| P1
+    subgraph The Adversarial Loop
+        P1[Ingest Rival's Digital Exhaust] -->|Pattern Recognition| P2(Predictive Model Maps Intent)
+        P2 -->|Execute Asymmetric Friction| P3[Preempt & Neutralize Innovation]
+        P3 -->|Information Asymmetry Weaponized| P4{Paranoia Engineered}
+        P4 -->|Rival Silos Internal Comms| P5[Rival Organizational Paralysis]
+        P5 -->|Generates More Erratic Data| P1
     end
 ```
 

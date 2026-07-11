@@ -51,7 +51,7 @@ graph TD
     A[Option A: $50, Low Value] 
     B[Option B: $100, High Value]
     C[Decoy A-: $95, Low Value]
-    C -.->|"Makes B look strictly better"| B
+    C -.->|Makes B look strictly better| B
 ```
 
 ## The Strategic Application

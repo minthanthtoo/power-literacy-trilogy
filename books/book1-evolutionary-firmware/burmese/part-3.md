@@ -14,10 +14,10 @@
 
 ```mermaid
 graph TD
-    A["ဆုံးဖြတ်ရမည့်အမှတ် (Decision Point)"] -->|"ယခုကတိကဝတ်ပြုမည် (Commit Now)"| B["နစ်မြုပ်ကုန်ကျစရိတ် / ပုံသေတန်ဖိုး (Sunk Cost / Fixed Value)"]
-    A -->|"ကတိကဝတ်ပြုရန် ဆိုင်းငံ့မည် (Delay Commitment)"| C["အစစ်အမှန် ရွေးချယ်ခွင့် ဖန်တီးနိုင်မှု (Real Option Created)"]
-    C -->|"ဈေးကွက် အခြေအနေကောင်းမွန်သည် (Market Favorable)"| D["တန်ဖိုးမြင့်ချိန်တွင် အကောင်အထည်ဖော်မည် (Strike/Commit High Value)"]
-    C -->|"ဈေးကွက် အခြေအနေမကောင်းပါ (Market Unfavorable)"| E["လမ်းကြောင်းပြောင်းမည်/အရှုံးမရှိ (Pivot/No Loss)"]
+    A["ဆုံးဖြတ်ရမည့်အမှတ် (Decision Point)"] -->|ယခုကတိကဝတ်ပြုမည် (Commit Now)| B["နစ်မြုပ်ကုန်ကျစရိတ် / ပုံသေတန်ဖိုး (Sunk Cost / Fixed Value)"]
+    A -->|ကတိကဝတ်ပြုရန် ဆိုင်းငံ့မည် (Delay Commitment)| C["အစစ်အမှန် ရွေးချယ်ခွင့် ဖန်တီးနိုင်မှု (Real Option Created)"]
+    C -->|ဈေးကွက် အခြေအနေကောင်းမွန်သည် (Market Favorable)| D["တန်ဖိုးမြင့်ချိန်တွင် အကောင်အထည်ဖော်မည် (Strike/Commit High Value)"]
+    C -->|ဈေးကွက် အခြေအနေမကောင်းပါ (Market Unfavorable)| E["လမ်းကြောင်းပြောင်းမည်/အရှုံးမရှိ (Pivot/No Loss)"]
 ```
 
 ## အန္တရာယ်ပုံစံနှင့် ကာကွယ်ရေး အသုံးချမှု (Risk Pattern and Defensive Application)

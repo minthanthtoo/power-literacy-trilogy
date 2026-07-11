@@ -240,11 +240,11 @@ When a subordinate's competence eclipses the leader's, the leader's brain regist
 
 ```mermaid
 flowchart TD
-    subgraph SG1 ["The Threat Detection Loop"]
-        A[Subordinate Displays High Competence] -->|"Triggers"| B(Leader's Ego-Defensive Mechanism)
-        B -->|"Status Threat Registered"| C{Does Subordinate Defer?}
-        C -->|"Yes: Flattery/Deference"| D[Threat Neutralized]
-        C -->|"No: Continued Brilliance"| E[Retaliatory Sabotage]
+    subgraph The Threat Detection Loop
+        A[Subordinate Displays High Competence] -->|Triggers| B(Leader's Ego-Defensive Mechanism)
+        B -->|Status Threat Registered| C{Does Subordinate Defer?}
+        C -->|Yes: Flattery/Deference| D[Threat Neutralized]
+        C -->|No: Continued Brilliance| E[Retaliatory Sabotage]
     end
 ```
 
@@ -470,10 +470,10 @@ Olson (1965) in *The Logic of Collective Action* mathematically formalized the f
 
 ```mermaid
 graph TD
-    A[Contributors] -->|"Labor/Capital"| B(Central Node)
-    B -->|"Absorbs Credit"| C{Prestige/Reward}
-    C -->|"Minimal Share"| A
-    C -->|"Maximum Share"| B
+    A[Contributors] -->|Labor/Capital| B(Central Node)
+    B -->|Absorbs Credit| C{Prestige/Reward}
+    C -->|Minimal Share| A
+    C -->|Maximum Share| B
 ```
 
 ## The Strategic Application
@@ -582,11 +582,11 @@ When you associate with the unlucky and unhappy, you actively download their com
 
 ```mermaid
 flowchart TD
-    subgraph SG2 ["The Cortisol Cascade"]
-        A[Associate is Chronically Stressed] -->|"Expresses Negative Affect"| B(Your Mirror Neurons Fire)
-        B -->|"Empathy Mechanism"| C{Your Amygdala Activates}
-        C -->|"Sympathetic Nervous System"| D[Cortisol Production Spikes]
-        D -->|"Cognitive Degradation"| E[Your Own Performance Drops]
+    subgraph The Cortisol Cascade
+        A[Associate is Chronically Stressed] -->|Expresses Negative Affect| B(Your Mirror Neurons Fire)
+        B -->|Empathy Mechanism| C{Your Amygdala Activates}
+        C -->|Sympathetic Nervous System| D[Cortisol Production Spikes]
+        D -->|Cognitive Degradation| E[Your Own Performance Drops]
     end
 ```
 
@@ -838,8 +838,8 @@ By injecting high information entropy into your actions, you destroy the opponen
 
 ```mermaid
 graph LR
-    A[Opponent Strategy] -->|"Predictable"| B[Exploited]
-    A -->|"Randomized/Mixed"| C[Equilibrium/Unpredictable]
+    A[Opponent Strategy] -->|Predictable| B[Exploited]
+    A -->|Randomized/Mixed| C[Equilibrium/Unpredictable]
 ```
 
 ## The Strategic Application
@@ -945,10 +945,10 @@ An early, binding commitment is a sunk cost that strips you of transaction cost 
 
 ```mermaid
 graph TD
-    A[Decision Point] -->|"Commit Now"| B[Sunk Cost / Fixed Value]
-    A -->|"Delay Commitment"| C[Real Option Created]
-    C -->|"Market Favorable"| D[Strike/Commit High Value]
-    C -->|"Market Unfavorable"| E[Pivot/No Loss]
+    A[Decision Point] -->|Commit Now| B[Sunk Cost / Fixed Value]
+    A -->|Delay Commitment| C[Real Option Created]
+    C -->|Market Favorable| D[Strike/Commit High Value]
+    C -->|Market Unfavorable| E[Pivot/No Loss]
 ```
 
 ## The Strategic Application
@@ -1321,7 +1321,7 @@ graph TD
     A[Option A: $50, Low Value] 
     B[Option B: $100, High Value]
     C[Decoy A-: $95, Low Value]
-    C -.->|"Makes B look strictly better"| B
+    C -.->|Makes B look strictly better| B
 ```
 
 ## The Strategic Application
@@ -1752,8 +1752,8 @@ Relying solely on logic fails because humans are fundamentally emotional animals
 ```mermaid
 graph TD
     A[Message] --> B{Audience Motivation/Ability}
-    B -->|"High"| C[Central Route Processing]
-    B -->|"Low"| D[Peripheral Route Processing]
+    B -->|High| C[Central Route Processing]
+    B -->|Low| D[Peripheral Route Processing]
     C --> E[Lasting Change]
     D --> F[Temporary Change based on Cues]
 ```

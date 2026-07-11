@@ -15,10 +15,10 @@ An early, binding commitment is a sunk cost that strips you of transaction cost 
 
 ```mermaid
 graph TD
-    A[Decision Point] -->|"Commit Now"| B[Sunk Cost / Fixed Value]
-    A -->|"Delay Commitment"| C[Real Option Created]
-    C -->|"Market Favorable"| D[Strike/Commit High Value]
-    C -->|"Market Unfavorable"| E[Pivot/No Loss]
+    A[Decision Point] -->|Commit Now| B[Sunk Cost / Fixed Value]
+    A -->|Delay Commitment| C[Real Option Created]
+    C -->|Market Favorable| D[Strike/Commit High Value]
+    C -->|Market Unfavorable| E[Pivot/No Loss]
 ```
 
 ## The Strategic Application

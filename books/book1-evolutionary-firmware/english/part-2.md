@@ -16,11 +16,11 @@ When you associate with the unlucky and unhappy, you actively download their com
 
 ```mermaid
 flowchart TD
-    subgraph SG1 ["The Cortisol Cascade"]
-        A[Associate is Chronically Stressed] -->|"Expresses Negative Affect"| B(Your Mirror Neurons Fire)
-        B -->|"Empathy Mechanism"| C{Your Amygdala Activates}
-        C -->|"Sympathetic Nervous System"| D[Cortisol Production Spikes]
-        D -->|"Cognitive Degradation"| E[Your Own Performance Drops]
+    subgraph The Cortisol Cascade
+        A[Associate is Chronically Stressed] -->|Expresses Negative Affect| B(Your Mirror Neurons Fire)
+        B -->|Empathy Mechanism| C{Your Amygdala Activates}
+        C -->|Sympathetic Nervous System| D[Cortisol Production Spikes]
+        D -->|Cognitive Degradation| E[Your Own Performance Drops]
     end
 ```
 
@@ -272,8 +272,8 @@ By injecting high information entropy into your actions, you destroy the opponen
 
 ```mermaid
 graph LR
-    A[Opponent Strategy] -->|"Predictable"| B[Exploited]
-    A -->|"Randomized/Mixed"| C[Equilibrium/Unpredictable]
+    A[Opponent Strategy] -->|Predictable| B[Exploited]
+    A -->|Randomized/Mixed| C[Equilibrium/Unpredictable]
 ```
 
 ## The Strategic Application

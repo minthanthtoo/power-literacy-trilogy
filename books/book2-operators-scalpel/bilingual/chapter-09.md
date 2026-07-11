@@ -4,7 +4,7 @@
 To weaponize attention and break a target’s psychological defenses, you must force them into a state of "cognitive tunneling"—a psychological phenomenon where acute stress causes the brain to focus exclusively on the immediate threat, blinding it to the broader context and all peripheral solutions.
 
 **မြန်မာ**  
-![Predictive Neutralization](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch9_predictive_disempowerment_1783594099974.jpg)
+![Predictive Neutralization](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_10_ch9_1783568280897.jpg)
 
 **English**  
 **1. The Incubation of Threat**
@@ -42,8 +42,8 @@ graph TD
     A[Operator Triggers Crisis] --> B[Target's Outside Option -> 0]
     B --> C[Operator Proposes Ultimatum]
     C --> D{Target in Cognitive Tunnel}
-    D -->|"Reject"| E[Immediate Destruction]
-    D -->|"Accept"| F[Surrender of Power]
+    D -->|Reject| E[Immediate Destruction]
+    D -->|Accept| F[Surrender of Power]
 ```
 
 **English**  
@@ -56,7 +56,7 @@ graph TD
 ### အန္တရာယ်ပုံစံနှင့် ကာကွယ်ရေး မူဘောင် - ထိတ်လန့်ကြောက်ရွံ့မှု အင်ဂျင်နီယာပညာ (Paranoia Engineering)
 
 **English**  
-![The Silent Panopticon (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch9_predictive_disempowerment_1783594099974.jpg)
+![The Silent Panopticon (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c9.jpg)
 
 **မြန်မာ**  
 > **ထုတ်ဝေမှု V4.1 မူဘောင်:** ဤအပိုင်းကို အသုံးချရန် လမ်းညွှန်အဖြစ် မဖတ်ရပါ။ ၎င်းသည် အဖွဲ့အစည်းများ၊ တည်ထောင်သူများနှင့် စာဖတ်သူများက ထိန်းချုပ်မှုနည်းလမ်းများကို အသိအမှတ်ပြု၊ မှတ်သား၊ တားဆီးနိုင်ရန် ဖော်ပြထားသော အန္တရာယ်ပုံစံဖြစ်သည်။

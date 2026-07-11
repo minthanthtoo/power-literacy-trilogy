@@ -1,6 +1,6 @@
 # Introduction
 
-![Introduction Fine-Art Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/main-cover.jpg)
+![Introduction Fine-Art Art](../assets/Book_2_The_Operators_Scalpel_v4_source/b2_fineart_intro_1783577570146.jpg)
 
 You are being hunted, and you do not even realize it.
 

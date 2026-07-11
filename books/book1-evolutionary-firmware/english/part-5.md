@@ -128,8 +128,8 @@ Relying solely on logic fails because humans are fundamentally emotional animals
 ```mermaid
 graph TD
     A[Message] --> B{Audience Motivation/Ability}
-    B -->|"High"| C[Central Route Processing]
-    B -->|"Low"| D[Peripheral Route Processing]
+    B -->|High| C[Central Route Processing]
+    B -->|Low| D[Peripheral Route Processing]
     C --> E[Lasting Change]
     D --> F[Temporary Change based on Cues]
 ```

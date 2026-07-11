@@ -2,7 +2,7 @@
 
 # Introduction
 
-![Introduction Fine-Art Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/main-cover.jpg)
+![Introduction Fine-Art Art](../assets/Book_2_The_Operators_Scalpel_v4_source/b2_fineart_intro_1783577570146.jpg)
 
 You are being hunted, and you do not even realize it.
 
@@ -24,7 +24,7 @@ It is up to you whether you remain the patient on the operating table, or become
 
 # Chapter 1: The Physiology of Submission
 
-![Extensive-Form Game Tree (Fine-Art)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_fineart_c1_1783577579856.jpg)
+![Extensive-Form Game Tree (Fine-Art)](../assets/Book_2_The_Operators_Scalpel_v4_source/b2_fineart_c1_1783577579856.jpg)
 
 The human brain is a predatory calculation engine, shaped by millions of years on the brutal anvil of the savannah. Its primary function is not the pursuit of truth, but the assessment of power. When an animal encounters a rival, the nervous system instantly processes a lethal geometry: who is larger, who is higher, who controls the space. This is the primal hardware of Dominance, a state enforced by the sheer threat of violence. Under the shadow of dominance, a subordinate’s brain floods with cortisol, the stress hormone, while testosterone plummets. This chemical cocktail paralyzes defiance, forcing the body into a risk-averse, low-power physiological posture. As early hominids evolved, a secondary, more sophisticated system emerged: Prestige. Prestige is power granted willingly by the tribe in exchange for competence and social value. For tens of thousands of years, our egalitarian ancestors utilized reverse dominance hierarchies—using gossip, ostracism, and collective violence to suppress any single alpha who attempted to rule by dominance alone.
 
@@ -47,12 +47,12 @@ Consider a more localized reality: the boardrooms of Yangon's traditional family
 ```mermaid
 graph TD
     A[Founder Offers Exploding Term Sheet] --> B{VC Decision: 48 Hours}
-    B -->|"Accepts"| C[High Valuation, Founder Control]
-    B -->|"Negotiates"| D[Founder Silence / No Concessions]
+    B -->|Accepts| C[High Valuation, Founder Control]
+    B -->|Negotiates| D[Founder Silence / No Concessions]
     D --> E{VC Decision: Near Expiration}
-    E -->|"Folds"| C
-    E -->|"Walks Away"| F[VC Experiences FOMO / Lost Sunk Cost]
-    B -->|"Rejects immediately"| F
+    E -->|Folds| C
+    E -->|Walks Away| F[VC Experiences FOMO / Lost Sunk Cost]
+    B -->|Rejects immediately| F
 ```
 
 ### The Dark Protocol: The Asymmetric Territory Trap
@@ -75,7 +75,7 @@ When they finally arrive at the point of negotiation, offer them nothing. Do not
 
 # Chapter 2: Weaponizing the Anterior Cingulate Cortex
 
-![Network Severance Graph (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch2_acc_isolation_1783594020962.jpg)
+![Network Severance Graph (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c2.jpg)
 
 To the primal human, the wilderness was a death sentence. The tribe was the only sanctuary against starvation and predators. Over millions of years, evolution engineered a ruthless enforcement mechanism to ensure individuals did not stray from the collective: pain. The brain did not invent a separate, specialized system to process hurt feelings. Instead, it hijacked the existing circuitry for physical trauma. 
 
@@ -99,12 +99,12 @@ The target retains their corner office, their impressive title, and their six-fi
 
 ```mermaid
 graph TD
-    subgraph SG1 ["Pre-Freeze-Out"]
+    subgraph Pre-Freeze-Out
         C1(Target Node) --- N1(Key Informant)
         C1 --- N2(Budget Committee)
         C1 --- N3(Operations)
     end
-    subgraph SG2 ["Post-Freeze-Out"]
+    subgraph Post-Freeze-Out
         C2(Target Node)
         N4(Key Informant) --- O1(New Power Center)
         N5(Budget Committee) --- O1
@@ -135,7 +135,7 @@ Driven by the biological agony of ostracism, the target will behave erratically.
 
 # Chapter 3: The Calculus of the Coalition
 
-![Weighted Voting Matrix (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch3_coalitions_1783594031831.jpg)
+![Weighted Voting Matrix (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c3.jpg)
 
 Power is rarely held by the single strongest ape. It is held by the ape who best understands the mathematics of the troop. In the evolutionary crucible of the Pleistocene, physical dominance was a precarious asset. A massive, solitary alpha could easily be destroyed in his sleep by three weaker, coordinated rivals. Thus, the human brain developed a profound, unconscious aptitude for the calculus of alliances. At its core is Dunbar’s number—the hardwired cognitive limit of roughly 150 stable social relationships. We are biologically constrained, forcing us to prioritize, rank, and categorize every connection. Within this network, the primate brain instinctively tracks "triadic closure": if individual A and individual B share a mutual enemy in C, the gap between A and B biologically demands to be closed. We are not just social animals; we are network architects, constantly scanning the perimeter for leverage, grievances, and the vulnerabilities of the apex. 
 
@@ -176,7 +176,7 @@ The most efficient way to topple an Alpha is not to strike them yourself, but to
 
 # Chapter 4: Indirect Reciprocity and Reputation Assassination
 
-![Image Scoring Model (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch4_reputation_1783594041798.jpg)
+![Image Scoring Model (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c4.jpg)
 
 In the ancestral environment, the spear was not the most dangerous weapon. It was the whisper. The human brain evolved a unique mechanism for survival known as *indirect reciprocity*—a complex calculus of reputation tracking. Unlike direct reciprocity, where two individuals trade favors, indirect reciprocity relies on third-party observation. *I help you, so someone else will help me.* It is the invisible currency of trust. Gossip evolved not as idle chatter, but as a ruthless biological imperative to identify free-riders and enforce social cohesion. The neural circuitry that processes reputation is deeply intertwined with the brain's survival centers. To destroy a man's reputation is to trigger a biological death sentence, severing him from the tribe's protection. The master of power understands that they do not need to strike an enemy directly; they only need to manipulate the tribe’s perception, turning the collective into an unwitting executioner.
 
@@ -217,7 +217,7 @@ The pinnacle of reputation assassination is not the lie you tell about your targ
 
 # Chapter 5: The Mathematics of Treason
 
-![Horizon of Betrayal (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch5_betrayal_1783594053461.jpg)
+![Horizon of Betrayal (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c5.jpg)
 
 In the brutal arithmetic of early human survival, betrayal was not an anomaly; it was a mathematical certainty waiting to be triggered by environmental scarcity. The Pleistocene epoch did not reward the inherently trusting; it rewarded the deeply paranoid and the swiftly ruthless. When two hunter-gatherer bands encountered one another over a fresh kill or a fertile valley, they entered the primal iteration of the Prisoner's Dilemma. The math was violently simple: cooperate and risk being slaughtered if the other betrayed, or betray first and guarantee survival. In a zero-sum environment where one tribe's feast meant another's starvation, the optimal strategy for ensuring genetic continuation was never blind trust. It was the calculated strike. The human brain evolved to constantly weigh the probabilities of cooperation against the lucrative, bloody dividends of a sudden, lethal betrayal. Those who mastered this dark calculus lived. Those who assumed good faith became footnotes in the dust.
 
@@ -229,10 +229,10 @@ Consider the volatile cross-border trade in border hubs like Myawaddy or Muse. A
 
 ```mermaid
 graph LR
-    A[Infinite Horizon Game] -->|"Cooperation Sustained"| B(Mutually Beneficial Growth)
-    A -->|"Operator Truncates Horizon"| C[End-Game Activated]
-    C -->|"Betray First"| D[Operator Secures Assets]
-    C -->|"Wait & Trust"| E[Operator Destroyed by VC]
+    A[Infinite Horizon Game] -->|Cooperation Sustained| B(Mutually Beneficial Growth)
+    A -->|Operator Truncates Horizon| C[End-Game Activated]
+    C -->|Betray First| D[Operator Secures Assets]
+    C -->|Wait & Trust| E[Operator Destroyed by VC]
 ```
 
 ### The Dark Protocol: Preemptive Decapitation
@@ -253,7 +253,7 @@ When the mathematics of a relationship shift into a zero-sum death spiral, hesit
 
 # Chapter 6: The Dopamine Engine
 
-![Stochastic Reward System (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch6_reward_circuitry_1783594065397.jpg)
+![Stochastic Reward System (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c6.jpg)
 
 Deep within the midbrain, nestled in the ventral tegmental area, lies the architecture of desire. The mesolimbic pathway does not exist to reward you for arriving at a destination; it exists to compel you to seek it. This is the neurochemical engine of dopamine. It is not the molecule of pleasure, but the molecule of anticipation, craving, and pursuit. In the Pleistocene epoch, early hominids did not find sustenance on a predictable schedule. The primal hunt was an exercise in starvation punctuated by sudden, glorious windfalls. The brain evolved to prioritize the unpredictable. When a reward is guaranteed, the dopaminergic response flatlines. But when a reward is uncertain—when it is delivered on a variable-ratio reinforcement schedule—dopamine spikes to dizzying heights. The hunt becomes an obsession. The uncertainty is the hook.
 
@@ -277,11 +277,11 @@ To execute the Dopaminergic Leash, you must master the calculus of withdrawal, m
 
 ```mermaid
 flowchart TD
-    subgraph SG3 ["Stochastic Incentive Contract (The Affective Starvation Loop)"]
-        S1[Step 1: The Saturation Phase] -->|"Establish High Baseline"| S2[Step 2: Abrupt Withdrawal]
-        S2 -->|"Trigger Reward Prediction Error"| S3[Step 3: The Scramble]
-        S3 -->|"Target Displays Frantic Appeasement"| S4[Step 4: The Intermittent Reward]
-        S4 -->|"Relief / Trauma Bond Reinforced"| S2
+    subgraph Stochastic Incentive Contract (The Affective Starvation Loop)
+        S1[Step 1: The Saturation Phase] -->|Establish High Baseline| S2[Step 2: Abrupt Withdrawal]
+        S2 -->|Trigger Reward Prediction Error| S3[Step 3: The Scramble]
+        S3 -->|Target Displays Frantic Appeasement| S4[Step 4: The Intermittent Reward]
+        S4 -->|Relief / Trauma Bond Reinforced| S2
     end
 ```
 
@@ -304,7 +304,7 @@ When the target has exhausted themselves and delivered exactly what you require,
 
 # Chapter 7: Unequal Tug-of-War & Choice Architecture
 
-![Friction Topography (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch7_asymmetric_friction_1783594077521.jpg)
+![Friction Topography (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c7.jpg)
 
 The human brain is an engine of ruthless metabolic efficiency. Consuming roughly twenty percent of the body’s caloric burn while occupying only two percent of its mass, it is perpetually on the precipice of energetic bankruptcy. To survive the brutal scarcity of the ancestral environment, evolution hardwired us with a profound, subconscious aversion to cognitive friction. Thinking, deciding, and resisting are metabolically expensive. The path of least resistance is not merely a psychological preference; it is a biological imperative. Because of this, humans are extraordinarily vulnerable to the manipulation of defaults. When presented with an environment where one option requires zero effort and another requires sustained cognitive or physical exertion, the brain will almost universally default to the frictionless path. We mistake the absence of friction for the presence of truth, and we interpret the default option as the safest choice. The primal human is governed not by the illusion of free will, but by the silent architecture of their environment. Power, therefore, does not require a spear. It only requires the ability to dictate the physical and cognitive terrain, making obedience effortless and defiance exhausting.
 
@@ -357,7 +357,7 @@ Allow the target to agonize over these catastrophic paths. Let the cognitive fri
 
 # Chapter 8: Supernormal Stimuli and the Attention Hijack
 
-![Attention Hijack Vector (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch8_supranormal_stimuli_1783594090935.jpg)
+![Attention Hijack Vector (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c8.jpg)
 
 The human brain evolved in an environment of brutal scarcity. Survival depended on hyper-vigilance toward high-value signals: the sudden flash of a predator's movement, the vivid hue of a ripe, calorie-dense fruit, the visceral shock of violence. When the ancestral brain detected these things, it did not pause for rational deliberation. It immediately hijacked the body’s attentional resources, flooding the nervous system with adrenaline and dopamine to force immediate action. Ethologists call the artificial exploitation of this mechanism a "supernormal stimulus." Present a bird with a synthetic egg that is larger and brighter than its own, and it will abandon its actual offspring to sit on the fake. The animal cannot help itself; its hardwiring commands it to prioritize the extreme over the natural. In humans, this cognitive vulnerability remains entirely intact. When presented with an exaggerated, hyper-salient version of reality, the prefrontal cortex—the seat of logic and restraint—is bypassed. Attention is captured, and the mind is enslaved by the brightest, loudest, or most terrifying object in the room.
 
@@ -390,8 +390,8 @@ graph TD
     A[Operator Triggers Crisis] --> B[Target's Outside Option -> 0]
     B --> C[Operator Proposes Ultimatum]
     C --> D{Target in Cognitive Tunnel}
-    D -->|"Reject"| E[Immediate Destruction]
-    D -->|"Accept"| F[Surrender of Power]
+    D -->|Reject| E[Immediate Destruction]
+    D -->|Accept| F[Surrender of Power]
 ```
 
 > [!TIP]
@@ -401,7 +401,7 @@ graph TD
 
 # Chapter 9: Predictive Neutralization (The Silent Panopticon)
 
-![The Silent Panopticon (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch9_predictive_disempowerment_1783594099974.jpg)
+![The Silent Panopticon (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c9.jpg)
 
 The human brain is, at its core, a ruthless prediction engine. The neocortex did not evolve to perceive reality objectively; it evolved to probabilistically anticipate the immediate future based on historical patterns. Survival in the ancestral environment heavily favored the organism that could sense the subtle drop in barometric pressure before the monsoon, or the flattening of tall grass before the predator struck. Uncertainty was biologically expensive; anticipation was life. To know the future is the oldest, most primal imperative. But to weaponize that prediction—to not just anticipate the enemy, but to engineer their starvation before they even realize they are hungry—is the ultimate evolutionary apex. Dominance is no longer about reacting to threats. True, absolute power lies in quietly assassinating the timeline in which the threat ever existed.
 
@@ -428,12 +428,12 @@ The human brain, wired by millions of years of evolution to fear the unseen pred
 
 ```mermaid
 flowchart TD
-    subgraph SG4 ["The Adversarial Loop"]
-        P1[Ingest Rival's Digital Exhaust] -->|"Pattern Recognition"| P2(Predictive Model Maps Intent)
-        P2 -->|"Execute Asymmetric Friction"| P3[Preempt & Neutralize Innovation]
-        P3 -->|"Information Asymmetry Weaponized"| P4{Paranoia Engineered}
-        P4 -->|"Rival Silos Internal Comms"| P5[Rival Organizational Paralysis]
-        P5 -->|"Generates More Erratic Data"| P1
+    subgraph The Adversarial Loop
+        P1[Ingest Rival's Digital Exhaust] -->|Pattern Recognition| P2(Predictive Model Maps Intent)
+        P2 -->|Execute Asymmetric Friction| P3[Preempt & Neutralize Innovation]
+        P3 -->|Information Asymmetry Weaponized| P4{Paranoia Engineered}
+        P4 -->|Rival Silos Internal Comms| P5[Rival Organizational Paralysis]
+        P5 -->|Generates More Erratic Data| P1
     end
 ```
 
@@ -441,7 +441,7 @@ flowchart TD
 
 # Conclusion: The Final Apex
 
-![The Final Apex (Placeholder)](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/main-cover.jpg)
+![The Final Apex (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_conclusion.jpg)
 
 We began this journey on the sun-baked dust of the Pleistocene savannah, where power was measured in bone density and the sheer, physical terror of the alpha primate. We traced the evolution of dominance as it scaled into the marble courts of empires, where the whisper replaced the spear, and architecture was weaponized to shatter the human ego. We watched as the blunt force of the sovereign was refined into the sterile, bloodless violence of the modern corporate boardroom, where term sheets and cap tables function as the new mechanisms of absolute control. Finally, we arrived at the silent Panopticon of the algorithmic age—an era where power is no longer about reacting to threats, but about predicting and eradicating them before they are even conceived.
 

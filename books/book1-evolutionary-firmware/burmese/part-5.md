@@ -86,12 +86,12 @@
 
 ```mermaid
 graph TD
-    A["(Hub)"] --- B["(Node)"]
-    A --- C["(Node)"]
-    A --- D["(Node)"]
-    A --- E["(Node)"]
-    B --- F["(Node)"]
-    C --- G["(Node)"]
+    A("(Hub")) --- B("(Node"))
+    A --- C("(Node"))
+    A --- D("(Node"))
+    A --- E("(Node"))
+    B --- F("(Node"))
+    C --- G("(Node"))
     style A fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
@@ -136,8 +136,8 @@ graph TD
 ```mermaid
 graph TD
     A["သတင်းစကား (Message)"] --> B{"ပရိသတ်၏ စိတ်အားထက်သန်မှု/စွမ်းရည် (Audience Motivation/Ability)"}
-    B -->|"မြင့်မားသည် (High)"| C["ဗဟိုလမ်းကြောင်းမှ လုပ်ဆောင်ခြင်း (Central Route Processing)"]
-    B -->|"နိမ့်ကျသည် (Low)"| D["အစွန်အဖျားလမ်းကြောင်းမှ လုပ်ဆောင်ခြင်း (Peripheral Route Processing)"]
+    B -->|မြင့်မားသည် (High)| C["ဗဟိုလမ်းကြောင်းမှ လုပ်ဆောင်ခြင်း (Central Route Processing)"]
+    B -->|နိမ့်ကျသည် (Low)| D["အစွန်အဖျားလမ်းကြောင်းမှ လုပ်ဆောင်ခြင်း (Peripheral Route Processing)"]
     C --> E["ရေရှည်တည်တံ့သော ပြောင်းလဲမှု (Lasting Change)"]
     D --> F["အရိပ်အမြွက်များအပေါ် အခြေခံသည့် ယာယီပြောင်းလဲမှု (Temporary Change based on Cues)"]
 ```

@@ -240,11 +240,11 @@ When a subordinate's competence eclipses the leader's, the leader's brain regist
 
 ```mermaid
 flowchart TD
-    subgraph SG1 ["The Threat Detection Loop"]
-        A[Subordinate Displays High Competence] -->|"Triggers"| B(Leader's Ego-Defensive Mechanism)
-        B -->|"Status Threat Registered"| C{Does Subordinate Defer?}
-        C -->|"Yes: Flattery/Deference"| D[Threat Neutralized]
-        C -->|"No: Continued Brilliance"| E[Retaliatory Sabotage]
+    subgraph The Threat Detection Loop
+        A[Subordinate Displays High Competence] -->|Triggers| B(Leader's Ego-Defensive Mechanism)
+        B -->|Status Threat Registered| C{Does Subordinate Defer?}
+        C -->|Yes: Flattery/Deference| D[Threat Neutralized]
+        C -->|No: Continued Brilliance| E[Retaliatory Sabotage]
     end
 ```
 
@@ -470,10 +470,10 @@ Olson (1965) in *The Logic of Collective Action* mathematically formalized the f
 
 ```mermaid
 graph TD
-    A[Contributors] -->|"Labor/Capital"| B(Central Node)
-    B -->|"Absorbs Credit"| C{Prestige/Reward}
-    C -->|"Minimal Share"| A
-    C -->|"Maximum Share"| B
+    A[Contributors] -->|Labor/Capital| B(Central Node)
+    B -->|Absorbs Credit| C{Prestige/Reward}
+    C -->|Minimal Share| A
+    C -->|Maximum Share| B
 ```
 
 ## The Strategic Application
