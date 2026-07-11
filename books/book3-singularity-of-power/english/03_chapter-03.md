@@ -1,5 +1,8 @@
 # Chapter 3: The Synthetic Workforce
 
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book3/b3_c3_synthetic_workforce_1783576620184.jpg)
+
+
 You are scanning your quarterly performance dashboard at 6:03 AM, coffee untouched, when a name catches your eye. "KL-7." It is your top-performing account executive. Over the past eleven months, KL-7 has closed more revenue than your next three salespeople combined. KL-7 has never missed a deadline, never requested a mental health day, never whispered about compensation in the break room, and never once threatened to take a competing offer. KL-7 has also never drawn a single breath. KL-7 is an autonomous AI agent operating inside your CRM, and the fact that it took you eleven months to notice is not a glitch in your management—it is the entire point.
 
 This is the surface of a tectonic restructuring that will obliterate the employer-employee compact as thoroughly as the internal combustion engine obliterated the livery stable. For three centuries, the foundational architecture of corporate power has rested on a single, immutable transaction: the exchange of human labor for human survival. You offer salary, equity, health insurance, the narcotic illusion of career progression. In return, you receive cognitive output, operational continuity, and—critically—leverage. The employee needs you more than you need any single employee, and this asymmetry is the invisible scaffolding upon which every hierarchy is built. Remove it, and the entire structure must be rebuilt from raw material. That removal is no longer theoretical. It is underway.

@@ -1,5 +1,8 @@
 # Chapter 4: The Cognitive Commons
 
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book3/b3_c4_cognitive_commons_1783576632699.jpg)
+
+
 In the mid-twentieth century, as the smog of industrialization choked London and rivers in the United States periodically caught fire, a paradigm shift occurred in how humanity understood the natural world. We recognized that certain resources—the air we breathe, the water we drink, the ecological systems that sustain agriculture—do not belong to any single corporation or individual. They are the "commons," a shared inheritance essential to collective survival. When a factory dumps toxic effluent into a river, it externalizes its costs onto the public, effectively borrowing from the health of the community to subsidize private profit.
 
 Today, we are living through the quiet, invisible degradation of an equally critical natural resource, one that resides not in the physical biosphere, but within the neurobiology of the human species. This resource is human attention, the finite cognitive bandwidth that allows us to perceive, reason, empathize, and ultimately cooperate. 

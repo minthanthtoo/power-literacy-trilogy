@@ -1,6 +1,6 @@
 # Chapter 8: Supernormal Stimuli and the Attention Hijack
 
-![Attention Hijack Vector (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c8.jpg)
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch8_supranormal_stimuli_1783594090935.jpg)
 
 The human brain evolved in an environment of brutal scarcity. Survival depended on hyper-vigilance toward high-value signals: the sudden flash of a predator's movement, the vivid hue of a ripe, calorie-dense fruit, the visceral shock of violence. When the ancestral brain detected these things, it did not pause for rational deliberation. It immediately hijacked the body’s attentional resources, flooding the nervous system with adrenaline and dopamine to force immediate action. Ethologists call the artificial exploitation of this mechanism a "supernormal stimulus." Present a bird with a synthetic egg that is larger and brighter than its own, and it will abandon its actual offspring to sit on the fake. The animal cannot help itself; its hardwiring commands it to prioritize the extreme over the natural. In humans, this cognitive vulnerability remains entirely intact. When presented with an exaggerated, hyper-salient version of reality, the prefrontal cortex—the seat of logic and restraint—is bypassed. Attention is captured, and the mind is enslaved by the brightest, loudest, or most terrifying object in the room.
 
@@ -33,8 +33,8 @@ graph TD
     A[Operator Triggers Crisis] --> B[Target's Outside Option -> 0]
     B --> C[Operator Proposes Ultimatum]
     C --> D{Target in Cognitive Tunnel}
-    D -->|Reject| E[Immediate Destruction]
-    D -->|Accept| F[Surrender of Power]
+    D -->|"Reject"| E[Immediate Destruction]
+    D -->|"Accept"| F[Surrender of Power]
 ```
 
 > [!TIP]

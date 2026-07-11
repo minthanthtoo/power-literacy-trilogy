@@ -5,46 +5,7 @@
 **English**  
 ![Introduction Fine-Art Art](../assets/Book_2_The_Operators_Scalpel_v4_source/b2_fineart_intro_1783577570146.jpg)
 
-**မြန်မာ**  
-ဤ V4.1 မူသည် Book 2 ကို "အသုံးချရန် ခွဲစိတ်ဓား" အဖြစ်မဟုတ်ဘဲ "အလွဲသုံးစားမှုကို ကြိုတင်သိနိုင်ရန် ခွဲစိတ်မီးအိမ်" အဖြစ် ပြန်လည်ဖွဲ့ထားသည်။ စာအုပ်၏ အဓိကတန်ဖိုးမှာ အဖွဲ့အစည်းများ၊ တည်ထောင်သူများ၊ မန်နေဂျာများနှင့် စာဖတ်သူများက အာဏာအလွဲသုံးစားမှုပုံစံများကို စောစောသိမြင်နိုင်ခြင်း၊ မှတ်တမ်းတင်နိုင်ခြင်း၊ တရားဝင်နှင့် ကျင့်ဝတ်ဆိုင်ရာ နည်းလမ်းများဖြင့် ကာကွယ်နိုင်ခြင်း ဖြစ်သည်။
-
-**English**  
-You are being hunted, and you do not even realize it.
-
-**မြန်မာ**  
-ဤစာအုပ်တွင် ဖော်ပြထားသော ဇီဝကမ္မဗေဒ၊ ဂုဏ်သတင်း၊ ဆုလာဘ်လမ်းကြောင်း ယန္တရားများ၊ ရွေးချယ်မှုတည်ဆောက်ပုံများနှင့် ဒေတာအချိုးမညီမှုများသည် လူမှုရေးနှင့် ကော်ပိုရိတ်စနစ်များအတွင်း အန္တရာယ်ဖြစ်စေနိုင်သော အင်အားများဖြစ်သည်။ ထို့ကြောင့် ဤမူက ၎င်းတို့ကို လုပ်နည်းအဖြစ်မဟုတ်ဘဲ red-team checklist၊ governance review နှင့် self-defense literacy အဖြစ် ဖတ်ရန် ဖိတ်ခေါ်သည်။
-
-**English**  
-The invisible architecture of power that governs your life is not a modern invention. It is ancient, embedded deeply into the folds of your cerebral cortex, written in the archaic language of dopamine, cortisol, and survival. You have been taught to believe that civilization is a steady march toward enlightenment, that the brutality of our ancestors has been sanitized by democracy, corporate etiquette, and the rule of law. This is a comforting lie, engineered to keep you docile.
-
-**မြန်မာ**  
-အောက်ပါအခန်းများတွင် "တိုက်ခိုက်သူ" ဟူသော အသုံးအနှုန်းကို တွေ့ရပါက ၎င်းသည် စာဖတ်သူကို လုပ်ဆောင်ရန် ညွှန်ကြားခြင်းမဟုတ်ပါ။ ၎င်းသည် အန္တရာယ်ပုံစံကို သတ်မှတ်ရန် အသုံးပြုထားသော threat-model role ဖြစ်သည်။ စာဖတ်သူ၏ လုပ်ငန်းတာဝန်မှာ ထိုပုံစံများကို လေ့လာပြီး အဖွဲ့အစည်းအတွင်း ပွင့်လင်းမှု၊ တာဝန်ခံမှု၊ တရားမျှတသော ဆုံးဖြတ်ချက်လုပ်ငန်းစဉ်နှင့် လူ့ဂုဏ်သိက္ခာကို ကာကွယ်ရန် ဖြစ်သည်။
-
-**English**  
-The truth is defined by evolutionary continuity. The fundamental dynamics of dominance and submission have not shifted a millimeter since the Pleistocene epoch. We are still the same apes stalking the savannas, driven by identical neurochemical imperatives to conquer and control. Only the weapons have evolved—from the chieftain’s club, to the emperor’s legions, to the CEO’s algorithms and term sheets. The battlefield has simply migrated from the physical realm to the structural and the psychological.
-
-**English**  
-This is not a theory. For the past fifteen years, I have engineered leverage in the boardrooms of venture capital firms and observed the architecture of control across tech monopolies and political war rooms. In every high-stakes environment, the victors are not the most moral or the most intelligent; they are the ones who understand how to exploit the biological baseline of their opponents.
-
-**English**  
-Look around you. Every corporate hierarchy and digital platform you interact with is meticulously designed to exploit the hardwired vulnerabilities of the human brain. You are caught in a web of asymmetric friction, reacting to stimuli deployed by individuals who understand your biology better than you do. You are anesthetized by intermittent rewards, while unseen architects of power leverage structural and biological forces against you.
-
-**English**  
-This book is not a moral treatise, but it demands an ethical framework. The knowledge contained herein is inherently dual-use, presenting profound moral hazards. Normalizing predatory behavior without boundaries erodes the very social fabric that allows markets and institutions to function. We are here to dissect the anatomy of control primarily as a mechanism of defense. By understanding these dark protocols, you gain the defensive armor required to detect and dismantle the unseen architects attempting to leverage your biology against you. You cannot dismantle a trap you cannot see.
-
-**English**  
-The chapters that follow provide a structured roadmap to these formal mechanisms of control. We will explore the Extensive-Form Game Trees of physiological submission (Chapter 1), graph the Network Severance topology of social ostracism (Chapter 2), map the Weighted Voting calculus of boardroom coalitions (Chapter 3), and dissect the Stochastic Incentive Contracts of the dopamine engine (Chapter 6). You have spent your entire life as the prey, acted upon by unseen forces you were never taught to recognize. The purpose of this text is to hand you the scalpel.
-
-**English**  
-It is up to you whether you remain the patient on the operating table, or become the surgeon.
-
-**English**  
----
-
-# အခန်း ၁ - လက်အောက်ခံမှု၏ ဇီဝကမ္မဗေဒ
-
-**English**  
-![Extensive-Form Game Tree (Fine-Art)](../assets/Book_2_The_Operators_Scalpel_v4_source/b2_fineart_c1_1783577579856.jpg)
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_fineart_intro_1783577570146.jpg)
 
 **မြန်မာ**  
 ![Extensive-Form Game Tree](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_1_ch1_1783567915572.jpg)
@@ -100,12 +61,12 @@ Consider a more localized reality: the boardrooms of Yangon's traditional family
 ```mermaid
 graph TD
     A[Founder Offers Exploding Term Sheet] --> B{VC Decision: 48 Hours}
-    B -->|Accepts| C[High Valuation, Founder Control]
-    B -->|Negotiates| D[Founder Silence / No Concessions]
+    B -->|"Accepts"| C[High Valuation, Founder Control]
+    B -->|"Negotiates"| D[Founder Silence / No Concessions]
     D --> E{VC Decision: Near Expiration}
-    E -->|Folds| C
-    E -->|Walks Away| F[VC Experiences FOMO / Lost Sunk Cost]
-    B -->|Rejects immediately| F
+    E -->|"Folds"| C
+    E -->|"Walks Away"| F[VC Experiences FOMO / Lost Sunk Cost]
+    B -->|"Rejects immediately"| F
 ```
 
 ### အန္တရာယ်ပုံစံနှင့် ကာကွယ်ရေး မူဘောင် - မျှတမှုမရှိသော နယ်မြေ ထောင်ချောက်
@@ -227,12 +188,12 @@ The target retains their corner office, their impressive title, and their six-fi
 
 ```mermaid
 graph TD
-    subgraph Pre-Freeze-Out
+    subgraph SG1 ["Pre-Freeze-Out"]
         C1(Target Node) --- N1(Key Informant)
         C1 --- N2(Budget Committee)
         C1 --- N3(Operations)
     end
-    subgraph Post-Freeze-Out
+    subgraph SG2 ["Post-Freeze-Out"]
         C2(Target Node)
         N4(Key Informant) --- O1(New Power Center)
         N5(Budget Committee) --- O1
@@ -539,10 +500,10 @@ Consider the volatile cross-border trade in border hubs like Myawaddy or Muse. A
 
 ```mermaid
 graph LR
-    A[Infinite Horizon Game] -->|Cooperation Sustained| B(Mutually Beneficial Growth)
-    A -->|Operator Truncates Horizon| C[End-Game Activated]
-    C -->|Betray First| D[Operator Secures Assets]
-    C -->|Wait & Trust| E[Operator Destroyed by VC]
+    A[Infinite Horizon Game] -->|"Cooperation Sustained"| B(Mutually Beneficial Growth)
+    A -->|"Operator Truncates Horizon"| C[End-Game Activated]
+    C -->|"Betray First"| D[Operator Secures Assets]
+    C -->|"Wait & Trust"| E[Operator Destroyed by VC]
 ```
 
 ### အန္တရာယ်ပုံစံနှင့် ကာကွယ်ရေး မူဘောင် - ကြိုတင် ခေါင်းဖြတ်ခြင်းဟု ထင်ရသော အမြစ်ဖြတ်တိုက်ခိုက်မှုပုံစံ
@@ -651,11 +612,11 @@ To execute the Dopaminergic Leash, you must master the calculus of withdrawal, m
 
 ```mermaid
 flowchart TD
-    subgraph Stochastic Incentive Contract (The Affective Starvation Loop)
-        S1[Step 1: The Saturation Phase] -->|Establish High Baseline| S2[Step 2: Abrupt Withdrawal]
-        S2 -->|Trigger Reward Prediction Error| S3[Step 3: The Scramble]
-        S3 -->|Target Displays Frantic Appeasement| S4[Step 4: The Intermittent Reward]
-        S4 -->|Relief / Trauma Bond Reinforced| S2
+    subgraph SG3 ["Stochastic Incentive Contract (The Affective Starvation Loop)"]
+        S1[Step 1: The Saturation Phase] -->|"Establish High Baseline"| S2[Step 2: Abrupt Withdrawal]
+        S2 -->|"Trigger Reward Prediction Error"| S3[Step 3: The Scramble]
+        S3 -->|"Target Displays Frantic Appeasement"| S4[Step 4: The Intermittent Reward]
+        S4 -->|"Relief / Trauma Bond Reinforced"| S2
     end
 ```
 
@@ -828,16 +789,7 @@ Allow the target to agonize over these catastrophic paths. Let the cognitive fri
 > [!TIP]
 > **Recognize and Counter This:** When presented with terrible binary choices (A or B), immediately recognize that the agenda has been rigged. Do not choose. Attack the framing itself. Force the introduction of external options or change the timeline. Never negotiate within a paradigm designed entirely by your adversary.
 
-**မြန်မာ**  
-အာရုံစိုက်မှုစီးပွားရေးတွင် outrage loop, notification pressure, trend hijacking နှင့် moral panic များသည် အဖွဲ့တစ်ခု၏ ဆုံးဖြတ်ချက်အာရုံကို ကျဉ်းမြောင်းစေနိုင်သည်။ ကာကွယ်ရေးအတွက် pause point, source triage, escalation threshold, red-team review နှင့် misinformation response plan များကို သတ်မှတ်ထားရမည်။
-
-**English**  
----
-
-### အန္တရာယ်ပုံစံနှင့် ကာကွယ်ရေး မူဘောင် - ဖန်တီးထားသော သိမြင်မှုဆိုင်ရာ လိုဏ်ခေါင်းဝင်ခြင်း (Induced Cognitive Tunneling)
-
-**English**  
-![Attention Hijack Vector (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c8.jpg)
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_fineart_intro_1783577570146.jpg)
 
 **မြန်မာ**  
 > **ထုတ်ဝေမှု V4.1 မူဘောင်:** ဤအပိုင်းကို အသုံးချရန် လမ်းညွှန်အဖြစ် မဖတ်ရပါ။ ၎င်းသည် အဖွဲ့အစည်းများ၊ တည်ထောင်သူများနှင့် စာဖတ်သူများက ထိန်းချုပ်မှုနည်းလမ်းများကို အသိအမှတ်ပြု၊ မှတ်သား၊ တားဆီးနိုင်ရန် ဖော်ပြထားသော အန္တရာယ်ပုံစံဖြစ်သည်။
@@ -926,8 +878,8 @@ graph TD
     A[Operator Triggers Crisis] --> B[Target's Outside Option -> 0]
     B --> C[Operator Proposes Ultimatum]
     C --> D{Target in Cognitive Tunnel}
-    D -->|Reject| E[Immediate Destruction]
-    D -->|Accept| F[Surrender of Power]
+    D -->|"Reject"| E[Immediate Destruction]
+    D -->|"Accept"| F[Surrender of Power]
 ```
 
 **English**  
@@ -1017,12 +969,12 @@ The human brain, wired by millions of years of evolution to fear the unseen pred
 
 ```mermaid
 flowchart TD
-    subgraph The Adversarial Loop
-        P1[Ingest Rival's Digital Exhaust] -->|Pattern Recognition| P2(Predictive Model Maps Intent)
-        P2 -->|Execute Asymmetric Friction| P3[Preempt & Neutralize Innovation]
-        P3 -->|Information Asymmetry Weaponized| P4{Paranoia Engineered}
-        P4 -->|Rival Silos Internal Comms| P5[Rival Organizational Paralysis]
-        P5 -->|Generates More Erratic Data| P1
+    subgraph SG4 ["The Adversarial Loop"]
+        P1[Ingest Rival's Digital Exhaust] -->|"Pattern Recognition"| P2(Predictive Model Maps Intent)
+        P2 -->|"Execute Asymmetric Friction"| P3[Preempt & Neutralize Innovation]
+        P3 -->|"Information Asymmetry Weaponized"| P4{Paranoia Engineered}
+        P4 -->|"Rival Silos Internal Comms"| P5[Rival Organizational Paralysis]
+        P5 -->|"Generates More Erratic Data"| P1
     end
 ```
 
@@ -1031,8 +983,7 @@ flowchart TD
 
 # Conclusion: The Final Apex
 
-**English**  
-![The Final Apex (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_conclusion.jpg)
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_conclusion_1783594112379.jpg)
 
 **English**  
 We began this journey on the sun-baked dust of the Pleistocene savannah, where power was measured in bone density and the sheer, physical terror of the alpha primate. We traced the evolution of dominance as it scaled into the marble courts of empires, where the whisper replaced the spear, and architecture was weaponized to shatter the human ego. We watched as the blunt force of the sovereign was refined into the sterile, bloodless violence of the modern corporate boardroom, where term sheets and cap tables function as the new mechanisms of absolute control. Finally, we arrived at the silent Panopticon of the algorithmic age—an era where power is no longer about reacting to threats, but about predicting and eradicating them before they are even conceived.

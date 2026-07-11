@@ -2,7 +2,7 @@
 
 # Introduction
 
-![Introduction Fine-Art Art](../assets/Book_2_The_Operators_Scalpel_v4_source/b2_fineart_intro_1783577570146.jpg)
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_fineart_intro_1783577570146.jpg)
 
 You are being hunted, and you do not even realize it.
 
@@ -47,12 +47,12 @@ Consider a more localized reality: the boardrooms of Yangon's traditional family
 ```mermaid
 graph TD
     A[Founder Offers Exploding Term Sheet] --> B{VC Decision: 48 Hours}
-    B -->|Accepts| C[High Valuation, Founder Control]
-    B -->|Negotiates| D[Founder Silence / No Concessions]
+    B -->|"Accepts"| C[High Valuation, Founder Control]
+    B -->|"Negotiates"| D[Founder Silence / No Concessions]
     D --> E{VC Decision: Near Expiration}
-    E -->|Folds| C
-    E -->|Walks Away| F[VC Experiences FOMO / Lost Sunk Cost]
-    B -->|Rejects immediately| F
+    E -->|"Folds"| C
+    E -->|"Walks Away"| F[VC Experiences FOMO / Lost Sunk Cost]
+    B -->|"Rejects immediately"| F
 ```
 
 ### The Dark Protocol: The Asymmetric Territory Trap
@@ -99,12 +99,12 @@ The target retains their corner office, their impressive title, and their six-fi
 
 ```mermaid
 graph TD
-    subgraph Pre-Freeze-Out
+    subgraph SG1 ["Pre-Freeze-Out"]
         C1(Target Node) --- N1(Key Informant)
         C1 --- N2(Budget Committee)
         C1 --- N3(Operations)
     end
-    subgraph Post-Freeze-Out
+    subgraph SG2 ["Post-Freeze-Out"]
         C2(Target Node)
         N4(Key Informant) --- O1(New Power Center)
         N5(Budget Committee) --- O1
@@ -229,10 +229,10 @@ Consider the volatile cross-border trade in border hubs like Myawaddy or Muse. A
 
 ```mermaid
 graph LR
-    A[Infinite Horizon Game] -->|Cooperation Sustained| B(Mutually Beneficial Growth)
-    A -->|Operator Truncates Horizon| C[End-Game Activated]
-    C -->|Betray First| D[Operator Secures Assets]
-    C -->|Wait & Trust| E[Operator Destroyed by VC]
+    A[Infinite Horizon Game] -->|"Cooperation Sustained"| B(Mutually Beneficial Growth)
+    A -->|"Operator Truncates Horizon"| C[End-Game Activated]
+    C -->|"Betray First"| D[Operator Secures Assets]
+    C -->|"Wait & Trust"| E[Operator Destroyed by VC]
 ```
 
 ### The Dark Protocol: Preemptive Decapitation
@@ -277,11 +277,11 @@ To execute the Dopaminergic Leash, you must master the calculus of withdrawal, m
 
 ```mermaid
 flowchart TD
-    subgraph Stochastic Incentive Contract (The Affective Starvation Loop)
-        S1[Step 1: The Saturation Phase] -->|Establish High Baseline| S2[Step 2: Abrupt Withdrawal]
-        S2 -->|Trigger Reward Prediction Error| S3[Step 3: The Scramble]
-        S3 -->|Target Displays Frantic Appeasement| S4[Step 4: The Intermittent Reward]
-        S4 -->|Relief / Trauma Bond Reinforced| S2
+    subgraph SG3 ["Stochastic Incentive Contract (The Affective Starvation Loop)"]
+        S1[Step 1: The Saturation Phase] -->|"Establish High Baseline"| S2[Step 2: Abrupt Withdrawal]
+        S2 -->|"Trigger Reward Prediction Error"| S3[Step 3: The Scramble]
+        S3 -->|"Target Displays Frantic Appeasement"| S4[Step 4: The Intermittent Reward]
+        S4 -->|"Relief / Trauma Bond Reinforced"| S2
     end
 ```
 
@@ -353,11 +353,7 @@ Allow the target to agonize over these catastrophic paths. Let the cognitive fri
 > [!TIP]
 > **Recognize and Counter This:** When presented with terrible binary choices (A or B), immediately recognize that the agenda has been rigged. Do not choose. Attack the framing itself. Force the introduction of external options or change the timeline. Never negotiate within a paradigm designed entirely by your adversary.
 
----
-
-# Chapter 8: Supernormal Stimuli and the Attention Hijack
-
-![Attention Hijack Vector (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c8.jpg)
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_fineart_intro_1783577570146.jpg)
 
 The human brain evolved in an environment of brutal scarcity. Survival depended on hyper-vigilance toward high-value signals: the sudden flash of a predator's movement, the vivid hue of a ripe, calorie-dense fruit, the visceral shock of violence. When the ancestral brain detected these things, it did not pause for rational deliberation. It immediately hijacked the body’s attentional resources, flooding the nervous system with adrenaline and dopamine to force immediate action. Ethologists call the artificial exploitation of this mechanism a "supernormal stimulus." Present a bird with a synthetic egg that is larger and brighter than its own, and it will abandon its actual offspring to sit on the fake. The animal cannot help itself; its hardwiring commands it to prioritize the extreme over the natural. In humans, this cognitive vulnerability remains entirely intact. When presented with an exaggerated, hyper-salient version of reality, the prefrontal cortex—the seat of logic and restraint—is bypassed. Attention is captured, and the mind is enslaved by the brightest, loudest, or most terrifying object in the room.
 
@@ -390,8 +386,8 @@ graph TD
     A[Operator Triggers Crisis] --> B[Target's Outside Option -> 0]
     B --> C[Operator Proposes Ultimatum]
     C --> D{Target in Cognitive Tunnel}
-    D -->|Reject| E[Immediate Destruction]
-    D -->|Accept| F[Surrender of Power]
+    D -->|"Reject"| E[Immediate Destruction]
+    D -->|"Accept"| F[Surrender of Power]
 ```
 
 > [!TIP]
@@ -428,12 +424,12 @@ The human brain, wired by millions of years of evolution to fear the unseen pred
 
 ```mermaid
 flowchart TD
-    subgraph The Adversarial Loop
-        P1[Ingest Rival's Digital Exhaust] -->|Pattern Recognition| P2(Predictive Model Maps Intent)
-        P2 -->|Execute Asymmetric Friction| P3[Preempt & Neutralize Innovation]
-        P3 -->|Information Asymmetry Weaponized| P4{Paranoia Engineered}
-        P4 -->|Rival Silos Internal Comms| P5[Rival Organizational Paralysis]
-        P5 -->|Generates More Erratic Data| P1
+    subgraph SG4 ["The Adversarial Loop"]
+        P1[Ingest Rival's Digital Exhaust] -->|"Pattern Recognition"| P2(Predictive Model Maps Intent)
+        P2 -->|"Execute Asymmetric Friction"| P3[Preempt & Neutralize Innovation]
+        P3 -->|"Information Asymmetry Weaponized"| P4{Paranoia Engineered}
+        P4 -->|"Rival Silos Internal Comms"| P5[Rival Organizational Paralysis]
+        P5 -->|"Generates More Erratic Data"| P1
     end
 ```
 
@@ -441,7 +437,7 @@ flowchart TD
 
 # Conclusion: The Final Apex
 
-![The Final Apex (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_conclusion.jpg)
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_conclusion_1783594112379.jpg)
 
 We began this journey on the sun-baked dust of the Pleistocene savannah, where power was measured in bone density and the sheer, physical terror of the alpha primate. We traced the evolution of dominance as it scaled into the marble courts of empires, where the whisper replaced the spear, and architecture was weaponized to shatter the human ego. We watched as the blunt force of the sovereign was refined into the sterile, bloodless violence of the modern corporate boardroom, where term sheets and cap tables function as the new mechanisms of absolute control. Finally, we arrived at the silent Panopticon of the algorithmic age—an era where power is no longer about reacting to threats, but about predicting and eradicating them before they are even conceived.
 

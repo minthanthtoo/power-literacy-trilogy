@@ -1,7 +1,7 @@
 # အခန်း ၁ - လက်အောက်ခံမှု၏ ဇီဝကမ္မဗေဒ
 
 **English**  
-![Extensive-Form Game Tree (Fine-Art)](../assets/Book_2_The_Operators_Scalpel_v4_source/b2_fineart_c1_1783577579856.jpg)
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_fineart_c1_1783577579856.jpg)
 
 **မြန်မာ**  
 ![Extensive-Form Game Tree](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_1_ch1_1783567915572.jpg)
@@ -57,12 +57,12 @@ Consider a more localized reality: the boardrooms of Yangon's traditional family
 ```mermaid
 graph TD
     A[Founder Offers Exploding Term Sheet] --> B{VC Decision: 48 Hours}
-    B -->|Accepts| C[High Valuation, Founder Control]
-    B -->|Negotiates| D[Founder Silence / No Concessions]
+    B -->|"Accepts"| C[High Valuation, Founder Control]
+    B -->|"Negotiates"| D[Founder Silence / No Concessions]
     D --> E{VC Decision: Near Expiration}
-    E -->|Folds| C
-    E -->|Walks Away| F[VC Experiences FOMO / Lost Sunk Cost]
-    B -->|Rejects immediately| F
+    E -->|"Folds"| C
+    E -->|"Walks Away"| F[VC Experiences FOMO / Lost Sunk Cost]
+    B -->|"Rejects immediately"| F
 ```
 
 ### အန္တရာယ်ပုံစံနှင့် ကာကွယ်ရေး မူဘောင် - မျှတမှုမရှိသော နယ်မြေ ထောင်ချောက်

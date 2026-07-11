@@ -1,5 +1,8 @@
 # Chapter 1: The Automation of the Boardroom
 
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book3/b3_c1_automation_boardroom_1783576006558.jpg)
+
+
 It begins with a dashboard.
 
 At 6:15 AM, before the first assistant arrives, before the first email is triaged, a CEO sits alone in a corner office sixty-three stories above Manhattan and opens a proprietary strategic intelligence platform. The screen renders cleanly: revenue projections across nine business units, supply chain latency metrics from fourteen countries, competitive threat assessments drawn from the real-time parsing of forty thousand data sources—earnings calls, patent filings, satellite imagery of rival factory lots, sentiment analysis of employee reviews scraped from anonymous forums. The system has already synthesized these into three recommended courses of action, rank-ordered by expected return, risk-adjusted to six decimal places. A single green button reads: **Approve.** The CEO reviews the recommendations. They are, as always, better than anything the executive committee produced in last quarter's seventy-two-hour offsite. He presses the button. His total contribution to the strategic direction of a $14 billion enterprise has taken eleven minutes. He pours his coffee. He does not realize he has already been replaced.

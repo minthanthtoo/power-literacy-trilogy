@@ -1,5 +1,8 @@
 # နိဂုံး - အကာအကွယ်ပေးသော ဉာဏ်ရည်၏ နောက်ဆုံးတာဝန်
 
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_conclusion_1783594112379.jpg)
+
+
 **English**  
 To neutralize a rival completely, you must weaponize the very concept of information asymmetry. When you possess total predictive dominance, your most terrifying weapon is not always what you do with the data, but how you let the target *feel* its weight. You do not just want them beaten; you want them psychologically paralyzed. This is the essence of a formal preemption game, leveraging a lethal first-mover advantage to destroy the opponent before they can even enter the arena.
 
@@ -27,12 +30,12 @@ The human brain, wired by millions of years of evolution to fear the unseen pred
 
 ```mermaid
 flowchart TD
-    subgraph The Adversarial Loop
-        P1[Ingest Rival's Digital Exhaust] -->|Pattern Recognition| P2(Predictive Model Maps Intent)
-        P2 -->|Execute Asymmetric Friction| P3[Preempt & Neutralize Innovation]
-        P3 -->|Information Asymmetry Weaponized| P4{Paranoia Engineered}
-        P4 -->|Rival Silos Internal Comms| P5[Rival Organizational Paralysis]
-        P5 -->|Generates More Erratic Data| P1
+    subgraph SG1 ["The Adversarial Loop"]
+        P1[Ingest Rival's Digital Exhaust] -->|"Pattern Recognition"| P2(Predictive Model Maps Intent)
+        P2 -->|"Execute Asymmetric Friction"| P3[Preempt & Neutralize Innovation]
+        P3 -->|"Information Asymmetry Weaponized"| P4{Paranoia Engineered}
+        P4 -->|"Rival Silos Internal Comms"| P5[Rival Organizational Paralysis]
+        P5 -->|"Generates More Erratic Data"| P1
     end
 ```
 

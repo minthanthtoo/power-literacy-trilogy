@@ -1,5 +1,8 @@
 # အခန်း ၁ - ဒါရိုက်တာအဖွဲ့၏ အလိုအလျောက်လည်ပတ်မှုစနစ်
 
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book3/b3_c1_automation_boardroom_1783576006558.jpg)
+
+
 **English**  
 It begins with a dashboard.
 

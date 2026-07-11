@@ -1,7 +1,7 @@
 # အခန်း ၃ - ညွန့်ပေါင်းအဖွဲ့၏ တွက်ချက်မှု
 
 **English**  
-![Weighted Voting Matrix (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c3.jpg)
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch3_coalitions_1783594031831.jpg)
 
 **မြန်မာ**  
 ![Weighted Voting Matrix](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_3_ch3_1783567934367.jpg)

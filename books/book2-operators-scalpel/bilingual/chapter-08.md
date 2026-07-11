@@ -4,7 +4,7 @@
 To master choice architecture is to realize that humans do not want freedom; they want the illusion of freedom without the burden of deliberation. Drawing on McKelvey's chaos theorem, The Hobson’s Trap can be formally modeled as a sequential agenda-setting game. You do not force your target to accept your preferred outcome. Instead, you dictate the order and nature of the choices, boxing them in by manufactured extremes and forcing them to beg you for the exact chains you always intended to place upon them.
 
 **မြန်မာ**  
-![Ultimatum Game Model](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_9_ch8_1783567990221.jpg)
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch8_supranormal_stimuli_1783594090935.jpg)
 
 ```mermaid
 graph TD

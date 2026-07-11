@@ -1,6 +1,6 @@
 # Chapter 1: The Physiology of Submission
 
-![Extensive-Form Game Tree (Fine-Art)](../assets/Book_2_The_Operators_Scalpel_v4_source/b2_fineart_c1_1783577579856.jpg)
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_fineart_c1_1783577579856.jpg)
 
 The human brain is a predatory calculation engine, shaped by millions of years on the brutal anvil of the savannah. Its primary function is not the pursuit of truth, but the assessment of power. When an animal encounters a rival, the nervous system instantly processes a lethal geometry: who is larger, who is higher, who controls the space. This is the primal hardware of Dominance, a state enforced by the sheer threat of violence. Under the shadow of dominance, a subordinate’s brain floods with cortisol, the stress hormone, while testosterone plummets. This chemical cocktail paralyzes defiance, forcing the body into a risk-averse, low-power physiological posture. As early hominids evolved, a secondary, more sophisticated system emerged: Prestige. Prestige is power granted willingly by the tribe in exchange for competence and social value. For tens of thousands of years, our egalitarian ancestors utilized reverse dominance hierarchies—using gossip, ostracism, and collective violence to suppress any single alpha who attempted to rule by dominance alone.
 
@@ -23,12 +23,12 @@ Consider a more localized reality: the boardrooms of Yangon's traditional family
 ```mermaid
 graph TD
     A[Founder Offers Exploding Term Sheet] --> B{VC Decision: 48 Hours}
-    B -->|Accepts| C[High Valuation, Founder Control]
-    B -->|Negotiates| D[Founder Silence / No Concessions]
+    B -->|"Accepts"| C[High Valuation, Founder Control]
+    B -->|"Negotiates"| D[Founder Silence / No Concessions]
     D --> E{VC Decision: Near Expiration}
-    E -->|Folds| C
-    E -->|Walks Away| F[VC Experiences FOMO / Lost Sunk Cost]
-    B -->|Rejects immediately| F
+    E -->|"Folds"| C
+    E -->|"Walks Away"| F[VC Experiences FOMO / Lost Sunk Cost]
+    B -->|"Rejects immediately"| F
 ```
 
 ### The Dark Protocol: The Asymmetric Territory Trap

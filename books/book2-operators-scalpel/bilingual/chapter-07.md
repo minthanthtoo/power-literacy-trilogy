@@ -1,7 +1,7 @@
 # အခန်း ၇ - အချိုးမညီသော ပွတ်တိုက်မှုနှင့် ရွေးချယ်မှု တည်ဆောက်ပုံ
 
 **English**  
-![Friction Topography (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c7.jpg)
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch7_asymmetric_friction_1783594077521.jpg)
 
 **မြန်မာ**  
 ![Agenda Setting Friction](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_8_ch7_1783567981493.jpg)

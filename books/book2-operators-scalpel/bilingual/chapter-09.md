@@ -4,7 +4,7 @@
 To weaponize attention and break a target’s psychological defenses, you must force them into a state of "cognitive tunneling"—a psychological phenomenon where acute stress causes the brain to focus exclusively on the immediate threat, blinding it to the broader context and all peripheral solutions.
 
 **မြန်မာ**  
-![Predictive Neutralization](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_10_ch9_1783568280897.jpg)
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch9_predictive_disempowerment_1783594099974.jpg)
 
 **English**  
 **1. The Incubation of Threat**
@@ -42,8 +42,8 @@ graph TD
     A[Operator Triggers Crisis] --> B[Target's Outside Option -> 0]
     B --> C[Operator Proposes Ultimatum]
     C --> D{Target in Cognitive Tunnel}
-    D -->|Reject| E[Immediate Destruction]
-    D -->|Accept| F[Surrender of Power]
+    D -->|"Reject"| E[Immediate Destruction]
+    D -->|"Accept"| F[Surrender of Power]
 ```
 
 **English**  

@@ -1,7 +1,7 @@
 # အခန်း ၅ - သစ္စာဖောက်ခြင်း၏ သင်္ချာ
 
 **English**  
-![Horizon of Betrayal (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c5.jpg)
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch5_betrayal_1783594053461.jpg)
 
 **မြန်မာ**  
 ![Horizon of Betrayal](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_5_ch5_1783567952729.jpg)
@@ -32,10 +32,10 @@ Consider the volatile cross-border trade in border hubs like Myawaddy or Muse. A
 
 ```mermaid
 graph LR
-    A[Infinite Horizon Game] -->|Cooperation Sustained| B(Mutually Beneficial Growth)
-    A -->|Operator Truncates Horizon| C[End-Game Activated]
-    C -->|Betray First| D[Operator Secures Assets]
-    C -->|Wait & Trust| E[Operator Destroyed by VC]
+    A[Infinite Horizon Game] -->|"Cooperation Sustained"| B(Mutually Beneficial Growth)
+    A -->|"Operator Truncates Horizon"| C[End-Game Activated]
+    C -->|"Betray First"| D[Operator Secures Assets]
+    C -->|"Wait & Trust"| E[Operator Destroyed by VC]
 ```
 
 ### အန္တရာယ်ပုံစံနှင့် ကာကွယ်ရေး မူဘောင် - ကြိုတင် ခေါင်းဖြတ်ခြင်းဟု ထင်ရသော အမြစ်ဖြတ်တိုက်ခိုက်မှုပုံစံ

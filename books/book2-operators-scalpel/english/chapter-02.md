@@ -1,6 +1,6 @@
 # Chapter 2: Weaponizing the Anterior Cingulate Cortex
 
-![Network Severance Graph (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c2.jpg)
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch2_acc_isolation_1783594020962.jpg)
 
 To the primal human, the wilderness was a death sentence. The tribe was the only sanctuary against starvation and predators. Over millions of years, evolution engineered a ruthless enforcement mechanism to ensure individuals did not stray from the collective: pain. The brain did not invent a separate, specialized system to process hurt feelings. Instead, it hijacked the existing circuitry for physical trauma. 
 
@@ -24,12 +24,12 @@ The target retains their corner office, their impressive title, and their six-fi
 
 ```mermaid
 graph TD
-    subgraph Pre-Freeze-Out
+    subgraph SG1 ["Pre-Freeze-Out"]
         C1(Target Node) --- N1(Key Informant)
         C1 --- N2(Budget Committee)
         C1 --- N3(Operations)
     end
-    subgraph Post-Freeze-Out
+    subgraph SG2 ["Post-Freeze-Out"]
         C2(Target Node)
         N4(Key Informant) --- O1(New Power Center)
         N5(Budget Committee) --- O1

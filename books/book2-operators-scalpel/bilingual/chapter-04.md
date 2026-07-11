@@ -1,7 +1,7 @@
 # အခန်း ၄ - သွယ်ဝိုက်သော အပြန်အလှန် အကျိုးပြုခြင်းနှင့် ဂုဏ်သတင်း လုပ်ကြံခြင်း
 
 **English**  
-![Image Scoring Model (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c4.jpg)
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch4_reputation_1783594041798.jpg)
 
 **မြန်မာ**  
 ![Image Scoring Model](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_4_ch4_1783567943729.jpg)

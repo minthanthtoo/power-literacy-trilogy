@@ -1,7 +1,7 @@
 # အခန်း ၂ - Anterior Cingulate Cortex အလွဲသုံးစားမှုကို ကာကွယ်ခြင်း
 
 **English**  
-![Network Severance Graph (Placeholder)](/Users/min/.gemini/antigravity/brain/2ef760a6-8df2-442d-a092-b4e3858200b3/placeholder_b2_c2.jpg)
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book2/b2_ch2_acc_isolation_1783594020962.jpg)
 
 **မြန်မာ**  
 ![Network Severance Graph](../assets/Book_2_The_Operators_Scalpel_v4_draft/img_2_ch2_1783567924913.jpg)
@@ -62,12 +62,12 @@ The target retains their corner office, their impressive title, and their six-fi
 
 ```mermaid
 graph TD
-    subgraph Pre-Freeze-Out
+    subgraph SG1 ["Pre-Freeze-Out"]
         C1(Target Node) --- N1(Key Informant)
         C1 --- N2(Budget Committee)
         C1 --- N3(Operations)
     end
-    subgraph Post-Freeze-Out
+    subgraph SG2 ["Post-Freeze-Out"]
         C2(Target Node)
         N4(Key Informant) --- O1(New Power Center)
         N5(Budget Committee) --- O1

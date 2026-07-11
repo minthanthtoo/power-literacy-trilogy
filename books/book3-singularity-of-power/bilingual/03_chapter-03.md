@@ -4,7 +4,7 @@
 To understand why attention is a zero-sum, finite resource, we must return to the biological constraints of the primate brain. The human brain is a metabolic furnace; though it accounts for only about 2% of our body weight, it consumes 20% of our resting energy. Sustained, top-down attention—the kind required to parse a complex argument, read a long-form article, or deliberate on policy—is mediated by the prefrontal cortex. This process is metabolically expensive and highly fatigable.
 
 **မြန်မာ**  
-![Automated Boardroom Art](../assets/Book_3_Singularity_v4_draft/book_3_image_2_1783503474923.jpg)
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book3/b3_c3_synthetic_workforce_1783576620184.jpg)
 
 **English**  
 Conversely, bottom-up attention—the reflexive orienting of our senses toward novel, moving, or emotionally salient stimuli (a loud noise, a flash of red, or an outrage-inducing headline)—is mediated by evolutionarily older regions of the brain like the amygdala. This system is rapid, metabolically cheap, and deeply involuntary.
