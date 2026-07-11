@@ -68,6 +68,9 @@ It is closing now.
 
 # Chapter 1: The Automation of the Boardroom
 
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book3/b3_c1_automation_boardroom_1783576006558.jpg)
+
+
 It begins with a dashboard.
 
 At 6:15 AM, before the first assistant arrives, before the first email is triaged, a CEO sits alone in a corner office sixty-three stories above Manhattan and opens a proprietary strategic intelligence platform. The screen renders cleanly: revenue projections across nine business units, supply chain latency metrics from fourteen countries, competitive threat assessments drawn from the real-time parsing of forty thousand data sources—earnings calls, patent filings, satellite imagery of rival factory lots, sentiment analysis of employee reviews scraped from anonymous forums. The system has already synthesized these into three recommended courses of action, rank-ordered by expected return, risk-adjusted to six decimal places. A single green button reads: **Approve.** The CEO reviews the recommendations. They are, as always, better than anything the executive committee produced in last quarter's seventy-two-hour offsite. He presses the button. His total contribution to the strategic direction of a $14 billion enterprise has taken eleven minutes. He pours his coffee. He does not realize he has already been replaced.
@@ -152,6 +155,9 @@ As cognitive labor becomes commoditized, the last scarce resource is the ability
 
 # Chapter 3: The Synthetic Workforce
 
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book3/b3_c3_synthetic_workforce_1783576620184.jpg)
+
+
 You are scanning your quarterly performance dashboard at 6:03 AM, coffee untouched, when a name catches your eye. "KL-7." It is your top-performing account executive. Over the past eleven months, KL-7 has closed more revenue than your next three salespeople combined. KL-7 has never missed a deadline, never requested a mental health day, never whispered about compensation in the break room, and never once threatened to take a competing offer. KL-7 has also never drawn a single breath. KL-7 is an autonomous AI agent operating inside your CRM, and the fact that it took you eleven months to notice is not a glitch in your management—it is the entire point.
 
 This is the surface of a tectonic restructuring that will obliterate the employer-employee compact as thoroughly as the internal combustion engine obliterated the livery stable. For three centuries, the foundational architecture of corporate power has rested on a single, immutable transaction: the exchange of human labor for human survival. You offer salary, equity, health insurance, the narcotic illusion of career progression. In return, you receive cognitive output, operational continuity, and—critically—leverage. The employee needs you more than you need any single employee, and this asymmetry is the invisible scaffolding upon which every hierarchy is built. Remove it, and the entire structure must be rebuilt from raw material. That removal is no longer theoretical. It is underway.
@@ -191,6 +197,9 @@ The operator who grasps this understands that sentiment is a vulnerability. You 
 ---
 
 # Chapter 4: The Cognitive Commons
+
+![Chapter Art](https://raw.githubusercontent.com/minthanthtoo/power-literacy-trilogy/main/assets/book3/b3_c4_cognitive_commons_1783576632699.jpg)
+
 
 In the mid-twentieth century, as the smog of industrialization choked London and rivers in the United States periodically caught fire, a paradigm shift occurred in how humanity understood the natural world. We recognized that certain resources—the air we breathe, the water we drink, the ecological systems that sustain agriculture—do not belong to any single corporation or individual. They are the "commons," a shared inheritance essential to collective survival. When a factory dumps toxic effluent into a river, it externalizes its costs onto the public, effectively borrowing from the health of the community to subsidize private profit.
 
